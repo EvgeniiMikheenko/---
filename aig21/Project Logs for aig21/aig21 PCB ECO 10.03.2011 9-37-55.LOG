@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3V Pin=R10-1
+Removed Pin From Net: NetName=NetR9_1 Pin=R10-3
+Removed Pin From Net: NetName=EMU Pin=R10-4
+Change Component DesignItemId : Designator=C9 Old DesignItemId=CC1812 New DesignItemId=C0805
+Change Component Footprint: Designator=C9 Old Footprint=CC1812 New Footprint=CC0805
+Change Component Comment : Designator=C9 Old Comment=CC1812 New Comment=C0805

@@ -1,0 +1,10 @@
+Change Pin Designator/Name:  Old Designator=DD1A-6 Old Name=P0[26]/AD0[3]/AOUT/RXD3 New Designator =P0[25]/AD0[2]/I2SRX_SDA/TXD3 New Name=7
+Change Pin Designator/Name:  Old Designator=DD1A-7 Old Name=P0[25]/AD0[2]/I2SRX_SDA/TXD3 New Designator =P0[26]/AD0[3]/AOUT/RXD3 New Name=6
+Change Pin Designator/Name:  Old Designator=DD1A-8 Old Name=P0[24]/AD0[1]/I2SRX_WS/CAP3[1] New Designator =P1[28]/PCAP1[0]/MAT0[0] New Name=44
+Change Pin Designator/Name:  Old Designator=DD1A-9 Old Name=P0[23]/AD0[0]/I2SRX_CLK/CAP3[0] New Designator =P1[29]/PCAP1[1]/MAT0[1] New Name=45
+Change Pin Designator/Name:  Old Designator=DD1A-39 Old Name=P1[25]/MAT1[1] New Designator =P0[10]/TXD2/SDA2/MAT3[0] New Name=48
+Change Pin Designator/Name:  Old Designator=DD1A-40 Old Name=P1[26]/PWM1[6]/CAP0[0] New Designator =P0[11]/RXD2/SCL2/MAT3[1] New Name=49
+Change Pin Designator/Name:  Old Designator=DD1A-44 Old Name=P1[28]/PCAP1[0]/MAT0[0] New Designator =P1[25]/MAT1[1] New Name=39
+Change Pin Designator/Name:  Old Designator=DD1A-45 Old Name=P1[29]/PCAP1[1]/MAT0[1] New Designator =P1[26]/PWM1[6]/CAP0[0] New Name=40
+Change Pin Designator/Name:  Old Designator=DD1A-48 Old Name=P0[10]/TXD2/SDA2/MAT3[0] New Designator =P0[23]/AD0[0]/I2SRX_CLK/CAP3[0] New Name=9
+Change Pin Designator/Name:  Old Designator=DD1A-49 Old Name=P0[11]/RXD2/SCL2/MAT3[1] New Designator =P0[24]/AD0[1]/I2SRX_WS/CAP3[1] New Name=8

@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=C13-1
+Removed Pin From Net: NetName=NetC13_2 Pin=C14-1
+Removed Pin From Net: NetName=NetC14_2 Pin=C15-1
+Removed Pin From Net: NetName=NetC15_2 Pin=C16-1
+Removed Pin From Net: NetName=NetC10_2 Pin=D1-3
+Removed Pin From Net: NetName=NetC12_2 Pin=D2-3
+Removed Pin From Net: NetName=NetC11_2 Pin=D2-6
+Removed Pin From Net: NetName=NetC14_2 Pin=D3-3
+Removed Pin From Net: NetName=NetC13_2 Pin=D3-6
+Removed Pin From Net: NetName=NetC15_2 Pin=D4-6
+Removed Member From Class: ClassName=aig21 Member=C18
+Removed Member From Class: ClassName=aig21 Member=C19
+Removed Member From Class: ClassName=aig21 Member=C20
+Removed Member From Class: ClassName=aig21 Member=C21
+Removed Member From Class: ClassName=aig21 Member=C22
+Removed Member From Class: ClassName=aig21 Member=C23
+Removed Member From Class: ClassName=aig21 Member=C24
+Removed Member From Class: ClassName=aig21 Member=C25
+Removed Member From Class: ClassName=aig21 Member=C26
+Removed Member From Class: ClassName=aig21 Member=C27
+Removed Member From Class: ClassName=aig21 Member=C28
+Removed Member From Class: ClassName=aig21 Member=C29
+Removed Member From Class: ClassName=aig21 Member=C30
+Removed Member From Class: ClassName=aig21 Member=C31
+Removed Member From Class: ClassName=aig21 Member=C32
+Removed Member From Class: ClassName=aig21 Member=C33
+Removed Member From Class: ClassName=aig21 Member=C34
+Removed Member From Class: ClassName=aig21 Member=C35
+Removed Member From Class: ClassName=aig21 Member=C36
+Removed Member From Class: ClassName=aig21 Member=C37
+Removed Member From Class: ClassName=aig21 Member=C38
+Removed Member From Class: ClassName=aig21 Member=C39
+Removed Member From Class: ClassName=aig21 Member=C40
+Removed Member From Class: ClassName=aig21 Member=C41
+Removed Member From Class: ClassName=aig21 Member=C42
+Removed Member From Class: ClassName=aig21 Member=C43
+Removed Member From Class: ClassName=aig21 Member=C44
+Removed Member From Class: ClassName=aig21 Member=C45
+Removed Member From Class: ClassName=aig21 Member=C46
+Removed Member From Class: ClassName=aig21 Member=C47
+Removed Member From Class: ClassName=aig21 Member=C48
+Removed Member From Class: ClassName=aig21 Member=C49
+Removed Member From Class: ClassName=aig21 Member=D1
+Removed Member From Class: ClassName=aig21 Member=D2
+Removed Member From Class: ClassName=aig21 Member=D3
+Removed Member From Class: ClassName=aig21 Member=D4
+Removed Member From Class: ClassName=aig21 Member=D5
+Removed Member From Class: ClassName=aig21 Member=D6
+Removed Member From Class: ClassName=aig21 Member=D7
+Removed Member From Class: ClassName=aig21 Member=D8
+Removed Member From Class: ClassName=aig21 Member=D9
+Removed Member From Class: ClassName=aig21 Member=D10
+Change Component Footprint: Designator=C10 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C11 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C12 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C13 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C14 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C15 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C16 Old Footprint=CC0805 New Footprint=c1206
+Change Component Footprint: Designator=C17 Old Footprint=CC0805 New Footprint=c1206
+Added Pin To Net: NetName=NetC12_2 Pin=C15-1
+Added Pin To Net: NetName=NetC13_2 Pin=C17-1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=C16-2
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=C17-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=D11-6
+Added Pin To Net: NetName=NetC16_1 Pin=L3-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC53_2 Pin=R18-1
+Added Net: Name=NetC53_2
+Added Room: Name=aig21

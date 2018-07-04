@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=EMU Pin=X3-2
+Removed Pin From Net: NetName=RS485_N Pin=X3-3
+Removed Pin From Net: NetName=GND_EXT Pin=X3-4
+Removed Pin From Net: NetName=GND_EXT Pin=X3-5
+Removed Pin From Net: NetName=P_F Pin=X3-6
+Removed Pin From Net: NetName=TX Pin=X3-7
+Removed Pin From Net: NetName=RX Pin=X3-9
+Removed Pin From Net: NetName=+EGB Pin=X3-10
+Change Component DesignItemId : Designator=X3 Old DesignItemId=09 18 110 9621 New DesignItemId=53398-1571
+Change Component Footprint: Designator=X3 Old Footprint=idc10_2 New Footprint=53398-1571
+Change Component Comment : Designator=X3 Old Comment=IDC10M New Comment=53398-1571
+Added Pin To Net: NetName=RS485_N Pin=X3-2
+Added Pin To Net: NetName=GND_EXT Pin=X3-3
+Added Pin To Net: NetName=TX Pin=X3-4
+Added Pin To Net: NetName=RX Pin=X3-5
+Added Pin To Net: NetName=EMU Pin=X3-6
+Added Pin To Net: NetName=P_F Pin=X3-7
+Added Pin To Net: NetName=+EGB Pin=X3-15

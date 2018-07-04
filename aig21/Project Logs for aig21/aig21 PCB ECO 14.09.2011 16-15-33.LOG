@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+3.3V Pin=C7-2
+Removed Pin From Net: NetName=+3.3V Pin=C8-2
+Removed Pin From Net: NetName=+3.3V Pin=DA1-1
+Removed Pin From Net: NetName=+3.3V Pin=DA1-9
+Removed Pin From Net: NetName=+3.3V Pin=DA1-24
+Removed Pin From Net: NetName=+3.3V Pin=DA1-36
+Removed Pin From Net: NetName=+3.3V Pin=DA1-48
+Removed Pin From Net: NetName=+24V Pin=U5-3
+Removed Pin From Net: NetName=+24V Pin=U5-5
+Added Component: Designator=U9(MF05A_N)
+Added Pin To Net: NetName=+3.3V Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=+3.3V Pin=U9-3
+Added Pin To Net: NetName=+2.5V Pin=C7-2
+Added Pin To Net: NetName=+2.5V Pin=C8-2
+Added Pin To Net: NetName=+2.5V Pin=DA1-1
+Added Pin To Net: NetName=+2.5V Pin=DA1-9
+Added Pin To Net: NetName=+2.5V Pin=DA1-24
+Added Pin To Net: NetName=+2.5V Pin=DA1-36
+Added Pin To Net: NetName=+2.5V Pin=DA1-48
+Added Pin To Net: NetName=+2.5V Pin=U9-5
+Added Net: Name=+2.5V
+Added Pin To Net: NetName=NetU5_3 Pin=U5-3
+Added Pin To Net: NetName=NetU5_3 Pin=U5-5
+Added Net: Name=NetU5_3
+Added Member To Class: ClassName=aig21 Member=Component U9 LP2980AIM5-2.5

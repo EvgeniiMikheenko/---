@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=HV_1000 Pin=C40-1
+Removed Pin From Net: NetName=HV_1000 Pin=VD7-4
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Added Component: Designator=C59(Ñ1206)
+Added Component: Designator=C60(Ñ1206)
+Added Component: Designator=C61(Ñ1206)
+Added Component: Designator=C62(Ñ1206)
+Added Component: Designator=VD13(SOT-363)
+Added Pin To Net: NetName=NetC15_1 Pin=C59-2
+Added Pin To Net: NetName=HV_1000 Pin=C62-1
+Added Pin To Net: NetName=HV_1000 Pin=VD13-4
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=NetC40_1 Pin=C61-2
+Added Pin To Net: NetName=NetC40_1 Pin=VD7-4
+Added Net: Name=NetC40_1
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=C60-2
+Added Pin To Net: NetName=NetC59_1 Pin=VD13-6
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC60_1 Pin=C60-1
+Added Pin To Net: NetName=NetC60_1 Pin=VD13-3
+Added Net: Name=NetC60_1
+Added Pin To Net: NetName=NetC61_1 Pin=C61-1
+Added Pin To Net: NetName=NetC61_1 Pin=C62-2
+Added Pin To Net: NetName=NetC61_1 Pin=VD13-2
+Added Pin To Net: NetName=NetC61_1 Pin=VD13-5
+Added Net: Name=NetC61_1
+Added Member To Class: ClassName=aig21 Member=Component C59 C1206
+Added Member To Class: ClassName=aig21 Member=Component C60 C1206
+Added Member To Class: ClassName=aig21 Member=Component C61 C1206
+Added Member To Class: ClassName=aig21 Member=Component C62 C1206
+Added Member To Class: ClassName=aig21 Member=Component VD13 BAV99BRW

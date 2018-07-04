@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=PUMP+ Pin=U1-2
+Removed Pin From Net: NetName=PUMP- Pin=U1-3
+Removed Pin From Net: NetName=PUMP+ Pin=U1-5
+Removed Pin From Net: NetName=PUMP- Pin=U1-6
+Added Component: Designator=C71(Ñ1206)
+Added Component: Designator=C72(Ñ1206)
+Added Component: Designator=U9(SO20_N)
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=+3.3V Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=GND Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=+38V Pin=U9-10
+Added Pin To Net: NetName=PUMP+ Pin=U9-13
+Added Pin To Net: NetName=GND Pin=U9-14
+Added Pin To Net: NetName=GND Pin=U9-15
+Added Pin To Net: NetName=GND Pin=U9-16
+Added Pin To Net: NetName=GND Pin=U9-17
+Added Pin To Net: NetName=PUMP- Pin=U9-18
+Added Pin To Net: NetName=NetC71_1 Pin=C71-1
+Added Pin To Net: NetName=NetC71_1 Pin=U9-12
+Added Net: Name=NetC71_1
+Added Pin To Net: NetName=NetC72_1 Pin=C72-1
+Added Pin To Net: NetName=NetC72_1 Pin=U9-19
+Added Net: Name=NetC72_1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-5
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U1-6
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=OUT1 Pin=C71-2
+Added Pin To Net: NetName=OUT1 Pin=L4-2
+Added Pin To Net: NetName=OUT1 Pin=U9-11
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=C72-2
+Added Pin To Net: NetName=OUT2 Pin=L5-2
+Added Pin To Net: NetName=OUT2 Pin=U9-9
+Added Net: Name=OUT2
+Added Member To Class: ClassName=aig21 Member=Component C71 C1206
+Added Member To Class: ClassName=aig21 Member=Component C72 C1206
+Added Member To Class: ClassName=aig21 Member=Component U9 L6201

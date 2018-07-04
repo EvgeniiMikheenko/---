@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\ÃÑÀ - Ä\bkp\gsa-d\Project.uvproj
+Project File Date:  12/26/2016
+
+<h2>Output:</h2>
+Rebuild target 'STM3210E-EVAL'
+compiling stm32f10x_it.c...
+main.h(107): warning:  #1-D: last line of file ends without a newline
+  #define MB_LSR                                                ((MB_SOURCE)?RS485_LSR:RS232_LSR)
+stm32f10x_it.c: 1 warning, 0 errors
+compiling main.c...
+main.h(107): warning:  #1-D: last line of file ends without a newline
+  #define MB_LSR                                                ((MB_SOURCE)?RS485_LSR:RS232_LSR)
+main.c(87): error:  #136: struct "<unnamed>" has no field "crc2"
+        for (i=0;i<FLASH_SIZE;i++)
+main.c(104): error:  #136: struct "<unnamed>" has no field "crc2"
+        i=FLASH_SIZE;
+main.c(106): warning:  #223-D: function "CRC16" declared implicitly
+        Params.crc = CRC16((unsigned char *) & Params, FLASH_SIZE*4-4);
+main.c(106): error:  #136: struct "<unnamed>" has no field "crc2"
+        Params.crc = CRC16((unsigned char *) & Params, FLASH_SIZE*4-4);
+main.c(107): error:  #136: struct "<unnamed>" has no field "crc2"
+        for (i=0;i<FLASH_SIZE;i++)
+main.c(116): warning:  #223-D: function "CRC16" declared implicitly
+        if (CRC16((unsigned char *) Flash_Params, FLASH_SIZE*4-4) != Flash_Params->crc)
+main.c(116): error:  #136: struct "<unnamed>" has no field "crc2"
+        if (CRC16((unsigned char *) Flash_Params, FLASH_SIZE*4-4) != Flash_Params->crc)
+main.c(118): error:  #136: struct "<unnamed>" has no field "crc2"
+        for (i = 0; i < FLASH_SIZE ; i++)
+main.c(124): error:  #136: struct "<unnamed>" has no field "crc2"
+        for (i = 0; i < FLASH_SIZE  ; i++)
+main.c(259): warning:  #223-D: function "CRC16" declared implicitly
+                                                if (CRC16((unsigned char *) & mb_slave_buf, mb_sl_datasize))
+main.c(207): warning:  #177-D: variable "stat_rs232" was declared but never referenced
+        char                    stat_rs232, mb_lsr;
+main.c(207): warning:  #177-D: variable "mb_lsr" was declared but never referenced
+        char                    stat_rs232, mb_lsr;
+main.c(390): warning:  #260-D: explicit type is missing ("int" assumed)
+        static ch=0;
+main.c(390): warning:  #177-D: variable "ch" was declared but never referenced
+        static ch=0;
+main.c(392): warning:  #177-D: variable "tmp" was declared but never referenced
+        int DACtmp,tmp;
+main.c: 9 warnings, 7 errors
+compiling crc.c...
+compiling md5c.c...
+md5c.c(67): warning:  #1294-D: Old-style function Encode
+  Encode (output, input, len)
+md5c.c(88): warning:  #1294-D: Old-style function Decode
+  Decode (output, input, len)
+md5c.c(144): warning:  #1294-D: Old-style function MD5Init
+  MD5Init (context)
+md5c.c(163): warning:  #1294-D: Old-style function MD5Update
+  void MD5Update (context, input, inputLen)
+md5c.c(206): warning:  #1294-D: Old-style function MD5Final
+  MD5Final (digest, context)
+md5c.c(234): warning:  #1294-D: Old-style function MD5Transform
+  MD5Transform (state, block)
+md5c.c: 6 warnings, 0 errors
+assembling stm32f10x_vector.s...
+".\Obj\STM3210E-EVAL.axf" - 7 Error(s), 16 Warning(s).
+Target not created
+</pre>
+</body>
+</html>

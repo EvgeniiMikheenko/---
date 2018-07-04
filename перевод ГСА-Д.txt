@@ -1,0 +1,11 @@
+				new DeviceParameter(1, "HV_Value", 0, 3350, 0, 335),
+                new DeviceParameter(2, "Freq", 500, 8000, 50, 800),
+                new DeviceParameter(3, "HV_Offset", -90+32768, 90+32768, -9d, 9),
+          
+                new DeviceParameter(4, "+Tresh", 0, 3000, 0, 3),
+                new DeviceParameter(5, "-Tresh", 0, 3000, 0, 3),
+                new DeviceParameter(6, "Kmax", -200+32768, 200+32768, -20d, 20),
+                new DeviceParameter(7, "+Tresh_Danger", 0, 3000, 0, 3),
+                new DeviceParameter(8, "-Tresh_Danger", 0, 3000, 0, 3),
+                new DeviceParameter(9, "Filter_Level", 1, 20, 1, 20),
+                new DeviceParameter(15, "K2max", -200+32768, 200+32768, -20d, 20),

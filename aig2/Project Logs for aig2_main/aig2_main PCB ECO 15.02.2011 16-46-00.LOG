@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=BUZZER Pin=R10-1
+Removed Pin From Net: NetName=RW Pin=U3-39
+Removed Pin From Net: NetName=EMU Pin=U3-40
+Removed Member From Class: ClassName=aig2_main Member=R10
+Added Component: Designator=L10(12-1812)
+Added Component: Designator=R2(CAY16-F4)
+Added Component: Designator=R3(CAY16-F4)
+Added Component: Designator=R23(CAY16-F4)
+Added Component: Designator=R24(CAY16-F4)
+Added Component: Designator=R40(RR0805)
+Added Component: Designator=U4(751G-02_N)
+Added Component: Designator=VD1(SMB)
+Added Component: Designator=X6(DJK-02A)
+Added Pin To Net: NetName=+EGB Pin=R2-2
+Added Pin To Net: NetName=+EGB Pin=R2-4
+Added Pin To Net: NetName=+EGB Pin=R2-6
+Added Pin To Net: NetName=+EGB Pin=R2-8
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-3
+Added Pin To Net: NetName=GND Pin=R3-5
+Added Pin To Net: NetName=GND Pin=R3-7
+Added Pin To Net: NetName=GND Pin=R23-5
+Added Pin To Net: NetName=GND Pin=R24-5
+Added Pin To Net: NetName=+EGB Pin=R40-1
+Added Pin To Net: NetName=BUZZER Pin=S1-1
+Added Pin To Net: NetName=A0 Pin=U3-39
+Added Pin To Net: NetName=RW Pin=U3-40
+Added Pin To Net: NetName=EMU Pin=U3-51
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=+EGB Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Pin To Net: NetName=GND Pin=X6-1
+Added Pin To Net: NetName=CHARGE_CS Pin=R24-4
+Added Pin To Net: NetName=CHARGE_CS Pin=U3-17
+Added Net: Name=CHARGE_CS
+Added Pin To Net: NetName=CHARGE_PWM+ Pin=R3-8
+Added Pin To Net: NetName=CHARGE_PWM+ Pin=U3-36
+Added Pin To Net: NetName=CHARGE_PWM+ Pin=U4-9
+Added Net: Name=CHARGE_PWM+
+Added Pin To Net: NetName=CHARGE_PWM- Pin=R3-6
+Added Pin To Net: NetName=CHARGE_PWM- Pin=U3-35
+Added Pin To Net: NetName=CHARGE_PWM- Pin=U4-10
+Added Net: Name=CHARGE_PWM-
+Added Pin To Net: NetName=CS Pin=R2-1
+Added Pin To Net: NetName=CS Pin=R2-3
+Added Pin To Net: NetName=CS Pin=R2-5
+Added Pin To Net: NetName=CS Pin=R2-7
+Added Pin To Net: NetName=CS Pin=U4-8
+Added Pin To Net: NetName=CS Pin=VD1-2
+Added Net: Name=CS
+Added Pin To Net: NetName=NetL10_1 Pin=L10-1
+Added Pin To Net: NetName=NetL10_1 Pin=VD1-1
+Added Net: Name=NetL10_1
+Added Pin To Net: NetName=NetL10_2 Pin=L10-2
+Added Pin To Net: NetName=NetL10_2 Pin=U4-16
+Added Net: Name=NetL10_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-7
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR23_6 Pin=R23-6
+Added Pin To Net: NetName=NetR23_6 Pin=R23-8
+Added Net: Name=NetR23_6
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-7
+Added Net: Name=NetR24_1
+Added Pin To Net: NetName=NetR24_3 Pin=R24-3
+Added Pin To Net: NetName=NetR24_3 Pin=R40-2
+Added Pin To Net: NetName=NetR24_3 Pin=U4-2
+Added Net: Name=NetR24_3
+Added Pin To Net: NetName=NetR24_6 Pin=R24-6
+Added Pin To Net: NetName=NetR24_6 Pin=R24-8
+Added Net: Name=NetR24_6
+Added Pin To Net: NetName=VIN_SENSE Pin=R23-4
+Added Pin To Net: NetName=VIN_SENSE Pin=U3-20
+Added Net: Name=VIN_SENSE
+Added Pin To Net: NetName=VIN Pin=R23-3
+Added Pin To Net: NetName=VIN Pin=U4-1
+Added Pin To Net: NetName=VIN Pin=X6-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=aig2_main Member=Component L10 CM45
+Added Member To Class: ClassName=aig2_main Member=Component R2 CAY16-J4
+Added Member To Class: ClassName=aig2_main Member=Component R3 CAY16-J4
+Added Member To Class: ClassName=aig2_main Member=Component R23 CAY16-J4
+Added Member To Class: ClassName=aig2_main Member=Component R24 CAY16-J4
+Added Member To Class: ClassName=aig2_main Member=Component R40 
+Added Member To Class: ClassName=aig2_main Member=Component U4 TCA0372DW
+Added Member To Class: ClassName=aig2_main Member=Component VD1 LL5819
+Added Member To Class: ClassName=aig2_main Member=Component X6 DJK-02A
+Added Room: Name=aig2_main

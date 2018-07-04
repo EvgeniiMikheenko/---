@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=+3.3V Pin=X6-4
+Removed Pin From Net: NetName=-3.3V Pin=X6-5
+Removed Pin From Net: NetName=+12.6V Pin=X6-6
+Removed Pin From Net: NetName=F Pin=X6-7
+Removed Pin From Net: NetName=CONT2ASS Pin=X6-9
+Removed Pin From Net: NetName=2F Pin=X6-10
+Added Pin To Net: NetName=CONT2ASS Pin=X6-1
+Added Pin To Net: NetName=F Pin=X6-4
+Added Pin To Net: NetName=GND Pin=X6-5
+Added Pin To Net: NetName=2F Pin=X6-6
+Added Pin To Net: NetName=GND Pin=X6-7
+Added Pin To Net: NetName=+3.3V Pin=X6-9
+Added Pin To Net: NetName=-3.3V Pin=X6-10
+Added Pin To Net: NetName=+12.6V Pin=X6-12

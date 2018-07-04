@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=RS485_N Pin=X1-3
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Pin From Net: NetName=P_F Pin=X1-5
+Removed Pin From Net: NetName=P_I Pin=X1-6
+Removed Pin From Net: NetName=+EGB Pin=X1-7
+Added Component: Designator=Q4(SOT23_N)
+Added Component: Designator=Q5(SOT23_N)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=P_F Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=P_I Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=RS485_N Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=+EGB Pin=X1-6
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=X1-4
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=X1-5
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206
+Added Member To Class: ClassName=aig21 Member=Component Q4 2N7002
+Added Member To Class: ClassName=aig21 Member=Component Q5 2N7002

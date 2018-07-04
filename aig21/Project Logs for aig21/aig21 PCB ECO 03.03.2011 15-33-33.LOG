@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC41_1 Pin=C41-1
+Removed Pin From Net: NetName=NetC15_1 Pin=C42-2
+Removed Pin From Net: NetName=NetC40_1 Pin=C46-2
+Removed Pin From Net: NetName=+3.3V Pin=R10-1
+Removed Pin From Net: NetName=EMU Pin=R10-2
+Removed Pin From Net: NetName=NetR10_3 Pin=R10-3
+Removed Pin From Net: NetName=EMU Pin=R10-4
+Removed Pin From Net: NetName=NetR10_3 Pin=R10-5
+Removed Pin From Net: NetName=GND Pin=R10-6
+Removed Pin From Net: NetName=SHIFT_SENSE Pin=R20-2
+Removed Pin From Net: NetName=NetR9_1 Pin=R20-3
+Removed Pin From Net: NetName=SHIFT_SENSE Pin=R20-4
+Removed Pin From Net: NetName=NetR9_1 Pin=R20-5
+Removed Pin From Net: NetName=NetC41_1 Pin=VD12-4
+Removed Pin From Net: NetName=NetC40_1 Pin=VD13-1
+Removed Member From Class: ClassName=aig21 Member=C41
+Removed Member From Class: ClassName=aig21 Member=C42
+Removed Member From Class: ClassName=aig21 Member=C43
+Removed Member From Class: ClassName=aig21 Member=C44
+Removed Member From Class: ClassName=aig21 Member=C45
+Removed Member From Class: ClassName=aig21 Member=C46
+Removed Member From Class: ClassName=aig21 Member=C47
+Removed Member From Class: ClassName=aig21 Member=C48
+Removed Member From Class: ClassName=aig21 Member=VD12
+Removed Member From Class: ClassName=aig21 Member=VD13
+Change Component Designator: OldDesignator=R20 NewDesignator=R10
+Added Component: Designator=R20(CAY16-F4)
+Added Pin To Net: NetName=EMU Pin=R10-2
+Added Pin To Net: NetName=NetR10_3 Pin=R10-3
+Added Pin To Net: NetName=EMU Pin=R10-4
+Added Pin To Net: NetName=NetR10_3 Pin=R10-5
+Added Pin To Net: NetName=+3.3V Pin=R20-1
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R20-2
+Added Pin To Net: NetName=NetR9_1 Pin=R20-3
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R20-4
+Added Pin To Net: NetName=NetR9_1 Pin=R20-5
+Added Pin To Net: NetName=GND Pin=R20-6
+Added Pin To Net: NetName=NetR36_2 Pin=R36-4
+Added Pin To Net: NetName=NetR36_2 Pin=R36-6
+Added Pin To Net: NetName=NetR36_2 Pin=R36-8
+Change Net Name : Old Net Name=NetC41_1 New Net Name=NetC53_2
+Added Member To Class: ClassName=aig21 Member=Component Q2 2N7002
+Added Member To Class: ClassName=aig21 Member=Component R28 
+Added Member To Class: ClassName=aig21 Member=Component U3 LM2664M6
+Added Room: Name=aig21

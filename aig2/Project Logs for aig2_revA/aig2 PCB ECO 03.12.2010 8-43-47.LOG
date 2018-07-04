@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=+24V Pin=C22-2
+Change Component DesignItemId : Designator=C22 Old DesignItemId=C0805 New DesignItemId=CAPASITOR A
+Change Component DesignItemId : Designator=C23 Old DesignItemId=C0805 New DesignItemId=CAPASITOR A
+Change Component Footprint: Designator=C22 Old Footprint=CC0805 New Footprint=CAPASITOR A
+Change Component Footprint: Designator=C23 Old Footprint=CC0805 New Footprint=CAPASITOR A
+Change Component Comment : Designator=C22 Old Comment=C0805 New Comment=CAPASITOR A
+Change Component Comment : Designator=C23 Old Comment=C0805 New Comment=CAPASITOR A
+Added Pin To Net: NetName=+24V Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2

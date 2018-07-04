@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PUMP+ Pin=U1-1
+Removed Pin From Net: NetName=PUMP- Pin=U8-1
+Added Pin To Net: NetName=PUMP- Pin=U1-1
+Added Pin To Net: NetName=PUMP+ Pin=U8-1
+Added Member To Class: ClassName=aig21 Member=Component Q7 IRLML2402

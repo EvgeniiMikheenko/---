@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=DE Pin=DD1-20
+Removed Pin From Net: NetName=R\E\ Pin=DD1-21
+Removed Pin From Net: NetName=EMU2 Pin=DD1-98
+Removed Pin From Net: NetName=EMU1 Pin=DD1-99
+Added Pin To Net: NetName=EMU1 Pin=DD1-20
+Added Pin To Net: NetName=EMU2 Pin=DD1-21
+Added Pin To Net: NetName=DE Pin=DD1-26
+Added Pin To Net: NetName=R\E\ Pin=DD1-27

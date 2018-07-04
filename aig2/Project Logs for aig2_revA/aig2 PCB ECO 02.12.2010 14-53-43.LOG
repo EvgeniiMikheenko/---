@@ -1,0 +1,3 @@
+Added Component: Designator=X7(PLS-2 2.54)
+Added Pin To Net: NetName=GND_EXT Pin=X7-1
+Added Pin To Net: NetName=GND Pin=X7-2

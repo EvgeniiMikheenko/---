@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=EMU Pin=DD1-9
+Removed Pin From Net: NetName=P_F Pin=DD1-56
+Removed Pin From Net: NetName=P_I Pin=DD1-57
+Removed Pin From Net: NetName=GND Pin=HL5-2
+Removed Pin From Net: NetName=GND Pin=HL6-2
+Removed Pin From Net: NetName=GND Pin=HL7-2
+Removed Pin From Net: NetName=GND Pin=HL8-2
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Member From Class: ClassName=aig2_main Member=DD1
+Removed Member From Class: ClassName=aig2_main Member=HL5
+Removed Member From Class: ClassName=aig2_main Member=HL6
+Removed Member From Class: ClassName=aig2_main Member=HL7
+Removed Member From Class: ClassName=aig2_main Member=HL8
+Removed Member From Class: ClassName=aig2_main Member=R23
+Change Component DesignItemId : Designator=X1 Old DesignItemId=TS-1109 New DesignItemId=SWT-5
+Change Component DesignItemId : Designator=X2 Old DesignItemId=TS-1109 New DesignItemId=SWT-5
+Change Component DesignItemId : Designator=X3 Old DesignItemId=TS-1109 New DesignItemId=SWT-5
+Change Component DesignItemId : Designator=X5 Old DesignItemId=TS-1109 New DesignItemId=SWT-5
+Change Component Footprint: Designator=X1 Old Footprint=ts-1109 New Footprint=SWT-5
+Change Component Footprint: Designator=X2 Old Footprint=ts-1109 New Footprint=SWT-5
+Change Component Footprint: Designator=X3 Old Footprint=ts-1109 New Footprint=SWT-5
+Change Component Footprint: Designator=X5 Old Footprint=ts-1109 New Footprint=SWT-5
+Change Component Comment : Designator=X1 Old Comment=TS-1109 New Comment=SWT-5
+Change Component Comment : Designator=X2 Old Comment=TS-1109 New Comment=SWT-5
+Change Component Comment : Designator=X3 Old Comment=TS-1109 New Comment=SWT-5
+Change Component Comment : Designator=X5 Old Comment=TS-1109 New Comment=SWT-5
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Added Component: Designator=HL1(LED2.54_LED2.54(Primary))
+Added Component: Designator=HL2(LED2.54_LED2.54(Primary))
+Added Component: Designator=HL3(LED2.54_LED2.54(Primary))
+Added Component: Designator=HL4(LED2.54_LED2.54(Primary))
+Added Component: Designator=R1(82p)
+Added Component: Designator=R10(RR0805)
+Added Component: Designator=R38(RR0805)
+Added Component: Designator=R39(RR0805)
+Added Component: Designator=U3(LQFP64_N)
+Added Pin To Net: NetName=GND Pin=BP2-3
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=+3.3V Pin=H1-2
+Added Pin To Net: NetName=EMU Pin=H1-6
+Added Pin To Net: NetName=GND Pin=HL1-1
+Added Pin To Net: NetName=GND Pin=HL2-1
+Added Pin To Net: NetName=GND Pin=HL3-1
+Added Pin To Net: NetName=GND Pin=HL4-1
+Added Pin To Net: NetName=+3.3V Pin=L2-1
+Added Pin To Net: NetName=NetC1_1 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=R1-3
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=+3.3V Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=+3.3V Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=+3.3V Pin=U3-13
+Added Pin To Net: NetName=EMU Pin=U3-14
+Added Pin To Net: NetName=HUMIDITY Pin=U3-15
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=+3.3V Pin=U3-19
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=+3.3V Pin=U3-32
+Added Pin To Net: NetName=TX Pin=U3-41
+Added Pin To Net: NetName=RX Pin=U3-42
+Added Pin To Net: NetName=P_I Pin=U3-43
+Added Pin To Net: NetName=P_F Pin=U3-44
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=+3.3V Pin=U3-48
+Added Pin To Net: NetName=EMU Pin=U3-62
+Added Pin To Net: NetName=GND Pin=U3-63
+Added Pin To Net: NetName=+3.3V Pin=U3-64
+Added Pin To Net: NetName=GND Pin=X4-4
+Added Pin To Net: NetName=GND Pin=X4-5
+Added Pin To Net: NetName=A0 Pin=H1-4
+Added Net: Name=A0
+Added Pin To Net: NetName=BUZZER Pin=R10-1
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=DB0 Pin=H1-7
+Added Pin To Net: NetName=DB0 Pin=U3-26
+Added Net: Name=DB0
+Added Pin To Net: NetName=DB1 Pin=H1-8
+Added Pin To Net: NetName=DB1 Pin=U3-27
+Added Net: Name=DB1
+Added Pin To Net: NetName=DB2 Pin=H1-9
+Added Pin To Net: NetName=DB2 Pin=U3-28
+Added Net: Name=DB2
+Added Pin To Net: NetName=DB3 Pin=H1-10
+Added Pin To Net: NetName=DB3 Pin=U3-55
+Added Net: Name=DB3
+Added Pin To Net: NetName=DB4 Pin=H1-11
+Added Pin To Net: NetName=DB4 Pin=U3-56
+Added Net: Name=DB4
+Added Pin To Net: NetName=DB5 Pin=H1-12
+Added Pin To Net: NetName=DB5 Pin=U3-57
+Added Net: Name=DB5
+Added Pin To Net: NetName=DB6 Pin=H1-13
+Added Pin To Net: NetName=DB6 Pin=U3-58
+Added Net: Name=DB6
+Added Pin To Net: NetName=DB7 Pin=H1-14
+Added Pin To Net: NetName=DB7 Pin=U3-59
+Added Net: Name=DB7
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=R1-1
+Added Pin To Net: NetName=NetH1_3 Pin=R1-2
+Added Net: Name=NetH1_3
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R21-8
+Added Net: Name=NetHL1_2
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R21-6
+Added Net: Name=NetHL2_2
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R21-4
+Added Net: Name=NetHL3_2
+Added Pin To Net: NetName=NetHL4_2 Pin=HL4-2
+Added Pin To Net: NetName=NetHL4_2 Pin=R21-2
+Added Net: Name=NetHL4_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=S1-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=R39-1
+Added Pin To Net: NetName=NetR38_2 Pin=U2-3
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=PRESSURE Pin=BP2-4
+Added Pin To Net: NetName=PRESSURE Pin=U3-16
+Added Net: Name=PRESSURE
+Added Pin To Net: NetName=RW Pin=H1-5
+Added Pin To Net: NetName=RW Pin=U3-61
+Added Net: Name=RW
+Added Member To Class: ClassName=aig2_main Member=Component HL1 LED2.54
+Added Member To Class: ClassName=aig2_main Member=Component HL2 LED2.54
+Added Member To Class: ClassName=aig2_main Member=Component HL3 LED2.54
+Added Member To Class: ClassName=aig2_main Member=Component HL4 LED2.54
+Added Member To Class: ClassName=aig2_main Member=Component R1 82p
+Added Member To Class: ClassName=aig2_main Member=Component R10 
+Added Member To Class: ClassName=aig2_main Member=Component R38 
+Added Member To Class: ClassName=aig2_main Member=Component R39 
+Added Member To Class: ClassName=aig2_main Member=Component U3 STM32F103RBT6

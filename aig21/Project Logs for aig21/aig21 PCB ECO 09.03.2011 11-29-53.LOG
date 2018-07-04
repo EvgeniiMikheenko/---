@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=NetC43_2 Pin=L3-1
+Removed Pin From Net: NetName=+3.3V Pin=R20-1
+Removed Pin From Net: NetName=SHIFT_SENSE Pin=R20-2
+Removed Pin From Net: NetName=SHIFT_SENSE Pin=R20-4
+Removed Pin From Net: NetName=GND Pin=R20-6
+Removed Member From Class: ClassName=aig21 Member=L3
+Change Component Designator: OldDesignator=R30 NewDesignator=R20
+Added Component: Designator=C9(CC1812)
+Added Component: Designator=R30(RR0805)
+Added Component: Designator=R31(RR0805)
+Added Component: Designator=U?(SSOP16_M)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R30-2
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=NetC43_2 Pin=U1-7
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R19-1
+Added Pin To Net: NetName=NetC9_2 Pin=R27-2
+Added Pin To Net: NetName=NetC9_2 Pin=R29-1
+Added Pin To Net: NetName=NetC9_2 Pin=R30-1
+Added Net: Name=NetC9_2
+Added Member To Class: ClassName=aig21 Member=Component C9 CC1812
+Added Member To Class: ClassName=aig21 Member=Component R31 
+Added Member To Class: ClassName=aig21 Member=Component U? MAX3221ECAE
+Added Room: Name=aig21

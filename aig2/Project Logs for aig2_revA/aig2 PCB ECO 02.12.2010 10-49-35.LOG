@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=-3.3V Pin=X6-11
+Removed Pin From Net: NetName=+EGB Pin=X6-12
+Added Pin To Net: NetName=+EGB Pin=X6-11
+Added Pin To Net: NetName=-3.3V Pin=X6-12

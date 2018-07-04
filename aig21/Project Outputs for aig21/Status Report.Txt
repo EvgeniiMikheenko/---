@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [aig21.PrjPcb]
+   Generated File[aig21.TXT]
+   Generated File[aig21.DRL]
+   Generated File[aig21.LDP]
+   Generated File[aig21.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:08:37 On 11.08.2011

@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=Q2-3
+Removed Pin From Net: NetName=NetC9_2 Pin=R19-2
+Added Component: Designator=Q3(SOT-23)
+Added Component: Designator=Q6(SOT-23)
+Added Component: Designator=Q7(SOT-23)
+Added Component: Designator=Q8(SOT-23)
+Added Component: Designator=R31(RR0805)
+Added Component: Designator=U1(SO8)
+Added Component: Designator=U8(SO8)
+Added Pin To Net: NetName=NetC9_2 Pin=R31-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R19-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R31-1
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=U1-7
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_2 Pin=Q6-3
+Added Pin To Net: NetName=NetQ3_2 Pin=U1-6
+Added Net: Name=NetQ3_2
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=U1-5
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=U8-7
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_2 Pin=Q7-2
+Added Pin To Net: NetName=NetQ7_2 Pin=Q8-3
+Added Pin To Net: NetName=NetQ7_2 Pin=U8-6
+Added Net: Name=NetQ7_2
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=U8-5
+Added Net: Name=NetQ8_1
+Added Member To Class: ClassName=aig21 Member=Component Q3 IRLML2402
+Added Member To Class: ClassName=aig21 Member=Component Q6 IRLML2402
+Added Member To Class: ClassName=aig21 Member=Component Q7 IRLML2402
+Added Member To Class: ClassName=aig21 Member=Component Q8 IRLML2402
+Added Member To Class: ClassName=aig21 Member=Component U1 L6384
+Added Member To Class: ClassName=aig21 Member=Component U8 L6384

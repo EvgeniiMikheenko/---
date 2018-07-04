@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=VT1 Old DesignItemId=BSP250 New DesignItemId=BSP130
+Change Component DesignItemId : Designator=VT2 Old DesignItemId=BSP250 New DesignItemId=BSP130
+Change Component Comment : Designator=VT1 Old Comment=BSP250 New Comment=STN1NK80Z
+Change Component Comment : Designator=VT2 Old Comment=BSP250 New Comment=STN1NK80Z
+Change Component Description : Designator=VT1 Old Description=P-channel Enhancement Mode Vertical D-MOSFET New Description=N-channel Enhancement Mode Vertical D-MOSFET
+Change Component Description : Designator=VT2 Old Description=P-channel Enhancement Mode Vertical D-MOSFET New Description=N-channel Enhancement Mode Vertical D-MOSFET

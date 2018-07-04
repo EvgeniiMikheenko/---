@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetR9_1 Pin=R10-5
+Added Pin To Net: NetName=GND Pin=R10-6
+Added Room: Name=aig21

@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=+24V Pin=DA4-7
+Removed Pin From Net: NetName=GND Pin=R19-5
+Removed Pin From Net: NetName=EMU Pin=R20-2
+Removed Pin From Net: NetName=NetR19_1 Pin=R20-3
+Removed Pin From Net: NetName=EMU Pin=R20-4
+Removed Pin From Net: NetName=NetR19_1 Pin=R20-5
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=+3.3V Pin=U3-3
+Removed Pin From Net: NetName=+3.3V Pin=U3-4
+Removed Pin From Net: NetName=NetC50_1 Pin=VD8-6
+Removed Member From Class: ClassName=aig21 Member=DA4
+Removed Member From Class: ClassName=aig21 Member=U3
+Added Component: Designator=C54(CC1812)
+Added Component: Designator=Q?(SOT23_N)
+Added Component: Designator=Q?(SOT23_N)
+Added Component: Designator=R9(RR0805)
+Added Component: Designator=R11(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(CAY16-F4)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=R?(RR0805)
+Added Component: Designator=U?(MF06A_N)
+Added Pin To Net: NetName=NetC50_2 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=+24V Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R19-3
+Added Pin To Net: NetName=+3.3V Pin=R?-1
+Added Pin To Net: NetName=NetC50_2 Pin=R?-1
+Added Pin To Net: NetName=EMU Pin=R?-2
+Added Pin To Net: NetName=+3.3V Pin=U?-4
+Added Pin To Net: NetName=+3.3V Pin=U?-5
+Added Pin To Net: NetName=NetC43_2 Pin=VD8-6
+Change Net Name : Old Net Name=NetC50_2 New Net Name=-24V
+Added Pin To Net: NetName=-3.3V Pin=U2-2
+Added Pin To Net: NetName=-3.3V Pin=U?-2
+Added Net: Name=-3.3V
+Added Pin To Net: NetName=NetC54_1 Pin=C54-1
+Added Pin To Net: NetName=NetC54_1 Pin=R?-1
+Added Net: Name=NetC54_1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=NetC54_2 Pin=VT1-3
+Added Pin To Net: NetName=NetC54_2 Pin=VT2-4
+Added Net: Name=NetC54_2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_1 Pin=R11-1
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Net: Name=NetQ?_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R20-3
+Added Pin To Net: NetName=NetR9_1 Pin=R20-5
+Added Pin To Net: NetName=NetR9_1 Pin=R?-1
+Added Pin To Net: NetName=NetR9_1 Pin=R?-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R20-2
+Added Pin To Net: NetName=SHIFT_SENSE Pin=R20-4
+Added Net: Name=SHIFT_SENSE
+Added Member To Class: ClassName=aig21 Member=Component C54 CC1812
+Added Member To Class: ClassName=aig21 Member=Component Q? 2N7002
+Added Member To Class: ClassName=aig21 Member=Component R9 
+Added Member To Class: ClassName=aig21 Member=Component R11 
+Added Member To Class: ClassName=aig21 Member=Component R? 
+Added Member To Class: ClassName=aig21 Member=Component U? LM2664M6
+Added Room: Name=aig21

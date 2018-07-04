@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_stm32f10x_ld_vl.o" "main.o" --strict --scatter "aig2_head.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\aig2_head.map" -o "aig2_head.axf"

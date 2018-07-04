@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetC16_1 Pin=C16-1
+Removed Pin From Net: NetName=NetC16_2 Pin=C16-2
+Removed Pin From Net: NetName=NetC23_1 Pin=C23-1
+Removed Pin From Net: NetName=NetC17_1 Pin=C23-2
+Removed Pin From Net: NetName=NetC32_1 Pin=C32-1
+Removed Pin From Net: NetName=NetC32_2 Pin=L3-1
+Removed Pin From Net: NetName=NetC32_2 Pin=VD2-1
+Removed Pin From Net: NetName=NetC50_2 Pin=VD5-1
+Removed Pin From Net: NetName=NetC50_1 Pin=VD5-5
+Removed Pin From Net: NetName=NetC32_2 Pin=VD5-6
+Added Component: Designator=C41(Ñ1206)
+Added Component: Designator=C42(Ñ1206)
+Added Component: Designator=C43(Ñ1206)
+Added Component: Designator=C44(Ñ1206)
+Added Component: Designator=C45(Ñ1206)
+Added Component: Designator=C46(Ñ1206)
+Added Component: Designator=C47(Ñ1206)
+Added Component: Designator=C48(Ñ1206)
+Added Component: Designator=VD12(SOT-363)
+Added Component: Designator=VD13(SOT-363)
+Added Pin To Net: NetName=NetC32_2 Pin=C42-1
+Added Pin To Net: NetName=NetC15_1 Pin=C42-2
+Added Pin To Net: NetName=NetC32_1 Pin=C43-1
+Added Pin To Net: NetName=NetC16_1 Pin=C44-1
+Added Pin To Net: NetName=NetC16_2 Pin=C44-2
+Added Pin To Net: NetName=NetC23_1 Pin=C45-1
+Added Pin To Net: NetName=NetC17_1 Pin=C45-2
+Added Pin To Net: NetName=NetC40_1 Pin=C46-2
+Added Pin To Net: NetName=NetC40_1 Pin=VD13-1
+Added Pin To Net: NetName=NetC32_2 Pin=VD13-6
+Change Net Name : Old Net Name=NetC16_1 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC23_1 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC33_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=VD12-3
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=C23-1
+Added Pin To Net: NetName=NetC16_2 Pin=VD12-6
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=C32-1
+Added Pin To Net: NetName=NetC23_2 Pin=VD13-3
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=VD12-4
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=C48-1
+Added Pin To Net: NetName=NetC41_2 Pin=VD12-2
+Added Pin To Net: NetName=NetC41_2 Pin=VD12-5
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=L3-1
+Added Pin To Net: NetName=NetC43_2 Pin=VD2-1
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=NetC46_1 Pin=C47-2
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=C48-2
+Added Pin To Net: NetName=NetC47_1 Pin=VD12-1
+Added Pin To Net: NetName=NetC47_1 Pin=VD13-4
+Added Net: Name=NetC47_1
+Added Pin To Net: NetName=NetVD13_2 Pin=VD13-2
+Added Pin To Net: NetName=NetVD13_2 Pin=VD13-5
+Added Net: Name=NetVD13_2
+Added Member To Class: ClassName=aig21 Member=Component C41 C1206
+Added Member To Class: ClassName=aig21 Member=Component C42 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206
+Added Member To Class: ClassName=aig21 Member=Component C44 C1206
+Added Member To Class: ClassName=aig21 Member=Component C45 C1206
+Added Member To Class: ClassName=aig21 Member=Component C46 C1206
+Added Member To Class: ClassName=aig21 Member=Component C47 C1206
+Added Member To Class: ClassName=aig21 Member=Component C48 C1206
+Added Member To Class: ClassName=aig21 Member=Component VD12 BAV99BRW
+Added Member To Class: ClassName=aig21 Member=Component VD13 BAV99BRW
+Added Room: Name=aig21

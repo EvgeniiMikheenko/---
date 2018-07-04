@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EMU2 Pin=VD3-1
+Removed Pin From Net: NetName=EMU1 Pin=VD3-2
+Added Pin To Net: NetName=EMU1 Pin=VD3-1
+Added Pin To Net: NetName=EMU2 Pin=VD3-2

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=K=8 Pin=DA5-27
+Removed Pin From Net: NetName=K=4 Pin=DA5-28
+Removed Pin From Net: NetName=K=4 Pin=DD1-86
+Added Pin To Net: NetName=K=4 Pin=DA5-27
+Added Pin To Net: NetName=K=8 Pin=DA5-28
+Added Pin To Net: NetName=K=4 Pin=DD1-34
+Added Pin To Net: NetName=K=8 Pin=DD1-35

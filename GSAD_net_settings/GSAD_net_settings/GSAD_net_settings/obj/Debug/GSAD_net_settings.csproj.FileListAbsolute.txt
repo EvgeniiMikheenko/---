@@ -1,0 +1,10 @@
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\bin\Debug\GSAD_net_settings.exe
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\bin\Debug\GSAD_net_settings.pdb
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\bin\Debug\NModbus4.dll
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\bin\Debug\NModbus4.xml
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.csprojResolveAssemblyReference.cache
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.Form1.resources
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.Properties.Resources.resources
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.csproj.GenerateResource.Cache
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.exe
+D:\ГСА - Д\GSAD_net_settings\GSAD_net_settings\GSAD_net_settings\obj\Debug\GSAD_net_settings.pdb

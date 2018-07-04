@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC46_2 Pin=C50-1
+Removed Pin From Net: NetName=NetC46_2 Pin=D2-2
+Added Pin To Net: NetName=NetC50_1 Pin=C50-1
+Added Pin To Net: NetName=NetC50_1 Pin=D2-2
+Added Net: Name=NetC50_1
+Added Member To Class: ClassName=aig21 Member=Component U4 ir2214

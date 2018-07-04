@@ -1,0 +1,9 @@
+Added Component: Designator=R19(RR0805)
+Added Component: Designator=R20(RR0805)
+Added Component: Designator=R21(RR0805)
+Added Pin To Net: NetName=RS485_P Pin=R19-1
+Added Pin To Net: NetName=+3.3V Pin=R19-2
+Added Pin To Net: NetName=RS485_N Pin=R20-1
+Added Pin To Net: NetName=RS485_P Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=RS485_N Pin=R21-2

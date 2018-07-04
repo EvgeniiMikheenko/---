@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Added Component: Designator=C33(Ñ1206)
+Added Component: Designator=C43(Ñ1206)
+Added Component: Designator=VD8(SOT-363)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC40_1 Pin=VD8-1
+Added Pin To Net: NetName=NetC48_1 Pin=VD8-2
+Added Pin To Net: NetName=NetC47_1 Pin=VD8-3
+Added Pin To Net: NetName=HV_1000 Pin=VD8-4
+Added Pin To Net: NetName=NetC48_1 Pin=VD8-5
+Added Pin To Net: NetName=NetC46_1 Pin=VD8-6
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206
+Added Member To Class: ClassName=aig21 Member=Component VD8 BAV99BRW
+Added Member To Class: ClassName=aig21 Member=Component VT1 BSP250

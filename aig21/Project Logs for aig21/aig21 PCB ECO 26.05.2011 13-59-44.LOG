@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=PUMP- Pin=U1-5
+Removed Pin From Net: NetName=PUMP+ Pin=U1-6
+Removed Pin From Net: NetName=NetL5_2 Pin=U1-7
+Change Component DesignItemId : Designator=U1 Old DesignItemId=LM2904DR2 New DesignItemId=MCP602-E/ST
+Change Component Footprint: Designator=U1 Old Footprint=751-07_N New Footprint=TSSOP-ST8_N
+Change Component Comment : Designator=U1 Old Comment=LM2904DR2 New Comment=MCP602-E/ST
+Added Component: Designator=U1(TSSOP-ST8_N)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetL5_2 Pin=U1-1
+Added Pin To Net: NetName=PUMP+ Pin=U1-2
+Added Pin To Net: NetName=PUMP- Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+24V Pin=U1-8

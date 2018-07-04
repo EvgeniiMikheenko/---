@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Change Component DesignItemId : Designator=U1 Old DesignItemId=LM2904D New DesignItemId=LM2904DR2
+Change Component Footprint: Designator=U1 Old Footprint=751-02_N New Footprint=751-07_N
+Change Component Comment : Designator=U1 Old Comment=LM2904D New Comment=LM2904DR2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2

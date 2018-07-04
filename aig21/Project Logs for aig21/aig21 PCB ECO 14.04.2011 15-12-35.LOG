@@ -1,0 +1,8 @@
+Added Component: Designator=R5(CAY16-F4)
+Added Pin To Net: NetName=RS485_N Pin=R5-3
+Added Pin To Net: NetName=RS485_P Pin=R5-4
+Added Pin To Net: NetName=GND Pin=R5-5
+Added Pin To Net: NetName=RS485_N Pin=R5-6
+Added Pin To Net: NetName=+3.3V Pin=R5-7
+Added Pin To Net: NetName=RS485_P Pin=R5-8
+Added Member To Class: ClassName=aig21 Member=Component R5 CAY16-J4

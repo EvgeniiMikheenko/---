@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+3.3V Pin=VD3-3
+Added Pin To Net: NetName=GND Pin=VD3-3

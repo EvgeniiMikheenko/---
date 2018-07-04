@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC27_2 Pin=VD11-1
+Removed Pin From Net: NetName=+12.6V Pin=VD11-3
+Change Component DesignItemId : Designator=VD11 Old DesignItemId=BAT54A New DesignItemId=BZX79-B15
+Change Component Footprint: Designator=VD11 Old Footprint=SOT23_N New Footprint=SOD27
+Change Component Comment : Designator=VD11 Old Comment=BAT54A New Comment=BY255
+Added Component: Designator=C35(CC1812)
+Added Pin To Net: NetName=NetC3_1 Pin=C35-1
+Added Pin To Net: NetName=GND_EXT Pin=C35-2
+Added Pin To Net: NetName=+12.6V Pin=VD11-1

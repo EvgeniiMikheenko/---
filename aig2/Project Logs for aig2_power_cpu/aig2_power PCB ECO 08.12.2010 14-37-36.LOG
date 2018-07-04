@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CONT2ASS Pin=DA5-11
+Removed Pin From Net: NetName=CONT2U Pin=DA5-12
+Added Pin To Net: NetName=CONT2ASS Pin=DA5-40
+Added Pin To Net: NetName=CONT2U Pin=DA5-41

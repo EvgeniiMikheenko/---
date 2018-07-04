@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Added Component: Designator=R3(RR0805)
+Added Component: Designator=R6(RR0805)
+Added Component: Designator=R7(RR0805)
+Added Component: Designator=R28(RR0805)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=IN_EMU Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R6-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R28-1
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=aig21 Member=Component R3 
+Added Member To Class: ClassName=aig21 Member=Component R6 
+Added Member To Class: ClassName=aig21 Member=Component R7 
+Added Member To Class: ClassName=aig21 Member=Component R28 

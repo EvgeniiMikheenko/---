@@ -1,0 +1,52 @@
+Change Component Comment : Designator=U? Old Comment=STM32F101C6T6 New Comment=STM32F1008
+Added Component: Designator=X6(IDC14M)
+Added Component: Designator=X14(idc10_2)
+Added Pin To Net: NetName=+3.3V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=+3.3V Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=+3.3V Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=+3.3V Pin=U?-36
+Added Pin To Net: NetName=GND Pin=U?-44
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=+3.3V Pin=U?-48
+Added Pin To Net: NetName=GND Pin=X6-4
+Added Pin To Net: NetName=GND Pin=X6-6
+Added Pin To Net: NetName=GND Pin=X6-8
+Added Pin To Net: NetName=+3.3V Pin=X6-10
+Added Pin To Net: NetName=+EGB Pin=X6-11
+Added Pin To Net: NetName=-3.3V Pin=X6-12
+Added Pin To Net: NetName=+12.6V Pin=X6-13
+Added Pin To Net: NetName=GND_EXT Pin=X6-14
+Added Pin To Net: NetName=+3.3V Pin=X14-1
+Added Pin To Net: NetName=GND Pin=X14-3
+Added Pin To Net: NetName=GND Pin=X14-5
+Added Pin To Net: NetName=GND Pin=X14-9
+Added Pin To Net: NetName=2F Pin=X6-7
+Added Net: Name=2F
+Added Pin To Net: NetName=CONT2ASS Pin=X6-1
+Added Net: Name=CONT2ASS
+Added Pin To Net: NetName=CONT2U Pin=X6-2
+Added Net: Name=CONT2U
+Added Pin To Net: NetName=EASS Pin=X6-9
+Added Net: Name=EASS
+Added Pin To Net: NetName=EHV Pin=X6-3
+Added Net: Name=EHV
+Added Pin To Net: NetName=F Pin=X6-5
+Added Net: Name=F
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=U?-7
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=X14-10
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=TCK Pin=U?-37
+Added Pin To Net: NetName=TCK Pin=X14-4
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=U?-38
+Added Pin To Net: NetName=TDI Pin=X14-8
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=U?-39
+Added Pin To Net: NetName=TDO Pin=X14-6
+Added Net: Name=TDO
+Added Pin To Net: NetName=TMS Pin=U?-34
+Added Pin To Net: NetName=TMS Pin=X14-2
+Added Net: Name=TMS

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+24V Pin=C5-1
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Pin From Net: NetName=HV_SENSE Pin=R9-2
+Removed Member From Class: ClassName=aig21 Member=C5
+Removed Member From Class: ClassName=aig21 Member=R9
+Removed Member From Class: ClassName=aig21 Member=R10
+Removed Member From Class: ClassName=aig21 Member=R11
+Change Component Comment : Designator=DA2 Old Comment=LT3460ES5 New Comment=LT1615
+Added Pin To Net: NetName=HV_SENSE Pin=R12-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetDA2_3
+Added Room: Name=aig21

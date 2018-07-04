@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RS485_A Pin=DA6-6
+Removed Pin From Net: NetName=RS485_B Pin=DA6-7
+Added Pin To Net: NetName=RS485_A_P Pin=DA6-6
+Added Net: Name=RS485_A_P
+Added Pin To Net: NetName=RS485_B_P Pin=DA6-7
+Added Net: Name=RS485_B_P

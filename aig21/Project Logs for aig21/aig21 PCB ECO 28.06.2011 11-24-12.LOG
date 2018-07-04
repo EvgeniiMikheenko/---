@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=GND Pin=DA2-2
+Removed Pin From Net: NetName=+EGB Pin=DA2-4
+Removed Pin From Net: NetName=+EGB Pin=DA2-5
+Removed Member From Class: ClassName=aig21 Member=DA2
+Added Component: Designator=C33(Ñ1206)
+Added Component: Designator=C43(Ñ1206)
+Added Component: Designator=C56(CAPASITOR A)
+Added Component: Designator=C57(CC0805)
+Added Component: Designator=L3(1812)
+Added Component: Designator=R11(RR0805)
+Added Component: Designator=R26(RR0805)
+Added Component: Designator=U6(MF05A_N)
+Added Component: Designator=U7(MF05A_N)
+Added Component: Designator=VD12(SOT23_N)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=+24V Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=+24V Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=+EGB Pin=L3-1
+Added Pin To Net: NetName=+24V Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=+EGB Pin=U6-4
+Added Pin To Net: NetName=+EGB Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=+EGB Pin=U7-4
+Added Pin To Net: NetName=+EGB Pin=U7-5
+Added Pin To Net: NetName=+24V Pin=VD12-1
+Added Pin To Net: NetName=+24V Pin=VD12-2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=U6-1
+Added Pin To Net: NetName=NetL1_2 Pin=VD1-3
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=U7-1
+Added Pin To Net: NetName=NetL3_2 Pin=VD12-3
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U6-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R26-1
+Added Pin To Net: NetName=NetR11_2 Pin=U7-3
+Added Net: Name=NetR11_2
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206
+Added Member To Class: ClassName=aig21 Member=Component C56 CAPASITOR A
+Added Member To Class: ClassName=aig21 Member=Component C57 C0805
+Added Member To Class: ClassName=aig21 Member=Component L3 LQH43CN220K
+Added Member To Class: ClassName=aig21 Member=Component R11 
+Added Member To Class: ClassName=aig21 Member=Component R26 
+Added Member To Class: ClassName=aig21 Member=Component U6 LM2733XMF
+Added Member To Class: ClassName=aig21 Member=Component U7 LM2733XMF
+Added Member To Class: ClassName=aig21 Member=Component VD12 BAT54A

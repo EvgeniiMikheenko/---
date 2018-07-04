@@ -1,0 +1,14 @@
+Added Component: Designator=VD2(SOT-363)
+Added Component: Designator=VD3(SOT-363)
+Added Pin To Net: NetName=NetC16_1 Pin=VD2-1
+Added Pin To Net: NetName=NetC13_1 Pin=VD2-2
+Added Pin To Net: NetName=NetC11_2 Pin=VD2-3
+Added Pin To Net: NetName=NetC13_2 Pin=VD2-4
+Added Pin To Net: NetName=NetC13_1 Pin=VD2-5
+Added Pin To Net: NetName=NetC10_2 Pin=VD2-6
+Added Pin To Net: NetName=NetC14_1 Pin=VD3-1
+Added Pin To Net: NetName=NetC12_2 Pin=VD3-3
+Added Pin To Net: NetName=NetC14_2 Pin=VD3-5
+Added Pin To Net: NetName=NetC15_2 Pin=VD3-6
+Added Member To Class: ClassName=aig21 Member=Component VD2 BAV99BRW
+Added Member To Class: ClassName=aig21 Member=Component VD3 BAV99BRW

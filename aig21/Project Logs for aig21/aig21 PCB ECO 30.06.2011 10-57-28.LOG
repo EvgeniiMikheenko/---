@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Added Component: Designator=C33(Ñ1206)
+Added Component: Designator=C43(Ñ1206)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC50_2 Pin=R19-1
+Change Net Name : Old Net Name=NetC50_2 New Net Name=-24V
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206

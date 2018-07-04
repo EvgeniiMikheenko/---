@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+
+  <state name ="Pos_Tresh">
+    <back_color>Red</back_color>
+	<text_color>White</text_color>
+    <message>POSTRSH</message>
+  </state>
+  
+  <state name ="Pos_Dng">
+    <back_color>Red</back_color>
+	<text_color>White</text_color>
+    <message>POSDNG</message>
+  </state>
+  
+  <state name ="Neg_Tresh">
+    <back_color>Black</back_color>
+	<text_color>White</text_color>
+    <message>NEGTRSH</message>	
+  </state>
+  
+  <state name ="Neg_Dng">
+    <back_color>Black</back_color>
+	<text_color>White</text_color>
+    <message>NEGDNG</message>
+  </state>
+  
+  
+  <state name ="No_Alrm">
+    <back_color>White</back_color>
+	<text_color>Black</text_color>
+    <message>No_Alrm</message>			
+  </state>
+  
+</Settings>

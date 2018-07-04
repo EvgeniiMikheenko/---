@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+3.3V Pin=R10-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-3
+Added Pin To Net: NetName=EMU Pin=R10-4
+Added Room: Name=aig21

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=VD3-1
+Removed Pin From Net: NetName=NetC12_2 Pin=VD3-3
+Removed Pin From Net: NetName=NetC14_2 Pin=VD3-5
+Added Component: Designator=R18(RR0805)
+Added Pin To Net: NetName=NetC53_2 Pin=R18-1
+Added Pin To Net: NetName=NetR17_1 Pin=R18-2
+Added Pin To Net: NetName=NetC13_2 Pin=VD3-1
+Added Pin To Net: NetName=NetC14_1 Pin=VD3-2
+Added Pin To Net: NetName=NetC14_2 Pin=VD3-4
+Added Pin To Net: NetName=NetC14_1 Pin=VD3-5
+Added Pin To Net: NetName=NetC12_2 Pin=VD3-6
+Added Member To Class: ClassName=aig21 Member=Component R18 

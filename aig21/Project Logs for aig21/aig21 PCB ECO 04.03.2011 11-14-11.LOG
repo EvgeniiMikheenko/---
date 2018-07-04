@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetR9_1 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=NetR10_3 Pin=R19-1
+Removed Pin From Net: NetName=GND Pin=R19-3
+Added Component: Designator=DD1(SSOP16 PITCH 0.65)
+Added Component: Designator=R4(RR0805)
+Added Component: Designator=R19(RR0805)
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetR10_3 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR10_3 New Net Name=NetR9_1
+Added Pin To Net: NetName=IN_EMU Pin=U2-3
+Added Net: Name=IN_EMU
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R9-2
+Added Pin To Net: NetName=NetR4_1 Pin=U2-4
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=aig21 Member=Component DD1 MAX3221EAE
+Added Member To Class: ClassName=aig21 Member=Component R4 
+Added Room: Name=aig21

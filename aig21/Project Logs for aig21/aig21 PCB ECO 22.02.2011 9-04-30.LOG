@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=NetC50_1 Pin=D11-1
+Removed Pin From Net: NetName=NetC50_2 Pin=D11-2
+Removed Pin From Net: NetName=+1.8V Pin=R19-3
+Removed Pin From Net: NetName=GND Pin=R19-7
+Removed Member From Class: ClassName=aig21 Member=C10
+Removed Member From Class: ClassName=aig21 Member=C11
+Removed Member From Class: ClassName=aig21 Member=C12
+Removed Member From Class: ClassName=aig21 Member=C13
+Removed Member From Class: ClassName=aig21 Member=C14
+Removed Member From Class: ClassName=aig21 Member=C15
+Removed Member From Class: ClassName=aig21 Member=C16
+Removed Member From Class: ClassName=aig21 Member=C17
+Removed Member From Class: ClassName=aig21 Member=D11
+Change Component Comment : Designator=U2 Old Comment=MAX4104EUK-T New Comment=LT6003
+Added Component: Designator=DA4(182H_N)
+Added Component: Designator=R20(CAY16-F4)
+Added Component: Designator=VD5(SOT-363)
+Added Component: Designator=Ñ1(Ñ1206)
+Added Component: Designator=Ñ2(Ñ1206)
+Added Component: Designator=Ñ3(Ñ1206)
+Added Component: Designator=Ñ4(Ñ1206)
+Added Component: Designator=Ñ5(Ñ1206)
+Added Component: Designator=Ñ6(Ñ1206)
+Added Component: Designator=Ñ7(Ñ1206)
+Added Component: Designator=Ñ8(Ñ1206)
+Added Pin To Net: NetName=+24V Pin=DA4-7
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R19-5
+Added Pin To Net: NetName=+3.3V Pin=R20-1
+Added Pin To Net: NetName=EMU Pin=R20-2
+Added Pin To Net: NetName=NetR19_1 Pin=R20-3
+Added Pin To Net: NetName=EMU Pin=R20-4
+Added Pin To Net: NetName=NetR19_1 Pin=R20-5
+Added Pin To Net: NetName=GND Pin=R20-6
+Added Pin To Net: NetName=NetC50_2 Pin=VD5-1
+Added Pin To Net: NetName=NetC50_1 Pin=VD5-5
+Added Pin To Net: NetName=-24V Pin=DA4-4
+Added Net: Name=-24V
+Added Pin To Net: NetName=NetC51_1 Pin=C51-1
+Added Pin To Net: NetName=NetC51_1 Pin=L2-1
+Added Net: Name=NetC51_1
+Added Pin To Net: NetName=NetDA4_2 Pin=DA4-2
+Added Pin To Net: NetName=NetDA4_2 Pin=DA4-6
+Added Net: Name=NetDA4_2
+Added Pin To Net: NetName=NetL3_1 Pin=L3-1
+Added Pin To Net: NetName=NetL3_1 Pin=VD2-1
+Added Pin To Net: NetName=NetL3_1 Pin=VD5-6
+Added Net: Name=NetL3_1
+Added Pin To Net: NetName=NetR19_6 Pin=R19-6
+Added Pin To Net: NetName=NetR19_6 Pin=U2-3
+Added Net: Name=NetR19_6
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-5
+Added Net: Name=NetVD2_2
+Added Pin To Net: NetName=NetVD2_4 Pin=VD2-4
+Added Pin To Net: NetName=NetVD2_4 Pin=VD3-1
+Added Net: Name=NetVD2_4
+Added Pin To Net: NetName=NetVD3_2 Pin=VD3-2
+Added Pin To Net: NetName=NetVD3_2 Pin=VD3-5
+Added Net: Name=NetVD3_2
+Added Member To Class: ClassName=aig21 Member=Component DA4 OPA454IDDA
+Added Member To Class: ClassName=aig21 Member=Component R20 CAY16-J4
+Added Member To Class: ClassName=aig21 Member=Component VD5 BAV99BRW
+Added Member To Class: ClassName=aig21 Member=Component Ñ1 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ2 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ3 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ4 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ5 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ6 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ7 Ñ1206
+Added Member To Class: ClassName=aig21 Member=Component Ñ8 Ñ1206
+Added Room: Name=aig21

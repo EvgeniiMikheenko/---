@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=HV_1000 Pin=Q1-4
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Member From Class: ClassName=aig21 Member=Q1
+Removed Member From Class: ClassName=aig21 Member=Q2
+Added Component: Designator=VT1(To-252)
+Added Component: Designator=VT2(To-252)
+Added Pin To Net: NetName=HV_1000 Pin=VT1-4
+Added Pin To Net: NetName=GND Pin=VT2-3
+Added Pin To Net: NetName=NetVT1_3 Pin=VT1-3
+Added Pin To Net: NetName=NetVT1_3 Pin=VT2-4
+Added Net: Name=NetVT1_3
+Added Member To Class: ClassName=aig21 Member=Component VT1 Транзистор
+Added Member To Class: ClassName=aig21 Member=Component VT2 Транзистор
+Added Room: Name=aig21

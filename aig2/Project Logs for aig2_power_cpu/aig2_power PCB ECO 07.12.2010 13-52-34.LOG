@@ -1,0 +1,49 @@
+Added Component: Designator=C19(CC0805)
+Added Component: Designator=DD1(SOT407-1_N)
+Added Component: Designator=DD2(SOT407-1_N)
+Added Component: Designator=R3(RR0805)
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=C19-2
+Added Pin To Net: NetName=TDO Pin=DD1-1
+Added Pin To Net: NetName=TDI Pin=DD1-2
+Added Pin To Net: NetName=TMS Pin=DD1-3
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=DD1-4
+Added Pin To Net: NetName=TCK Pin=DD1-5
+Added Pin To Net: NetName=+3.3V Pin=DD1-10
+Added Pin To Net: NetName=GND Pin=DD1-11
+Added Pin To Net: NetName=+3.3V Pin=DD1-12
+Added Pin To Net: NetName=+3.3V Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=DD1-15
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=DD1-17
+Added Pin To Net: NetName=+3.3V Pin=DD1-19
+Added Pin To Net: NetName=+3.3V Pin=DD1-28
+Added Pin To Net: NetName=GND Pin=DD1-31
+Added Pin To Net: NetName=GND Pin=DD1-41
+Added Pin To Net: NetName=+3.3V Pin=DD1-42
+Added Pin To Net: NetName=+3.3V Pin=DD1-54
+Added Pin To Net: NetName=GND Pin=DD1-55
+Added Pin To Net: NetName=+3.3V Pin=DD1-71
+Added Pin To Net: NetName=GND Pin=DD1-72
+Added Pin To Net: NetName=GND Pin=DD1-83
+Added Pin To Net: NetName=+3.3V Pin=DD1-84
+Added Pin To Net: NetName=+3.3V Pin=DD1-96
+Added Pin To Net: NetName=GND Pin=DD1-97
+Added Pin To Net: NetName=EHV Pin=DD2-6
+Added Pin To Net: NetName=EASS Pin=DD2-7
+Added Pin To Net: NetName=CONT2U Pin=DD2-8
+Added Pin To Net: NetName=CONT2ASS Pin=DD2-9
+Added Pin To Net: NetName=EMU2 Pin=DD2-20
+Added Pin To Net: NetName=EMU1 Pin=DD2-21
+Added Pin To Net: NetName=F Pin=DD2-33
+Added Pin To Net: NetName=2F Pin=DD2-34
+Added Pin To Net: NetName=TX Pin=DD2-48
+Added Pin To Net: NetName=RX Pin=DD2-49
+Added Pin To Net: NetName=DE Pin=DD2-63
+Added Pin To Net: NetName=K=4 Pin=DD2-86
+Added Pin To Net: NetName=K=8 Pin=DD2-87
+Added Pin To Net: NetName=P_F Pin=DD2-92
+Added Pin To Net: NetName=P_I Pin=DD2-93
+Added Pin To Net: NetName=+3.3V Pin=R3-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R3-2
+Added Pin To Net: NetName=R\E\ Pin=DD2-62
+Added Net: Name=R\E\

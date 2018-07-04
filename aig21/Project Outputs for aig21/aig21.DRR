@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: aig21.PcbDoc   11.08.2011  14:08:37
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : aig21.TXT
+EIA File   : aig21.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          20               5.59 Inch (141.94 mm)
+T2        118.11mil (2.99999mm)    Round          2                1.93 Inch (49.02 mm)
+---------------------------------------------------------------------------
+Totals                                            22               7.52 Inch (190.96 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

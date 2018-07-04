@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+24V Pin=Q1-3
+Added Pin To Net: NetName=SHIFT_PWM Pin=Q2-1
+Added Net: Name=SHIFT_PWM
+Added Member To Class: ClassName=aig21 Member=Component R19 

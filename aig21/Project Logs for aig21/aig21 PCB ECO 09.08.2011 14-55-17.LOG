@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Footprint: Designator=VD2 Old Footprint=SOT23_N New Footprint=SOT-23
+Change Component Comment : Designator=U3 Old Comment=AD8828/29 New Comment=ADM8828/29

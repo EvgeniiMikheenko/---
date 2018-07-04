@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C97-1
+Removed Pin From Net: NetName=GND Pin=C98-1
+Removed Member From Class: ClassName=aig2_main Member=C97
+Removed Member From Class: ClassName=aig2_main Member=C98
+Removed Member From Class: ClassName=aig2_main Member=ZQ1
+Change Component DesignItemId : Designator=H1 Old DesignItemId=mt-20-s4a New DesignItemId=MT-08S2A
+Change Component Footprint: Designator=H1 Old Footprint=MT-20s4 New Footprint=MT-08S2A
+Change Component Comment : Designator=H1 Old Comment=MT-20S4A New Comment=MT-08S2A

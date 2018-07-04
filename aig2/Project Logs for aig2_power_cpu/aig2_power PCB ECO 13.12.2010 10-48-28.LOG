@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3.3V Pin=R3-1
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=R3-2
+Added Component: Designator=R?(RR0805)
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND_EXT Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R?-1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R?-2

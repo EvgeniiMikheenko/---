@@ -1,0 +1,4 @@
+Added Component: Designator=C73(CAPASITOR C)
+Added Pin To Net: NetName=GND Pin=C73-1
+Added Pin To Net: NetName=-24V Pin=C73-2
+Added Member To Class: ClassName=aig21 Member=Component C73 CAPASITOR C

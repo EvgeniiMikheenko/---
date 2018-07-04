@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Added Component: Designator=X3(DIP4_SOP)
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-4
+Added Pin To Net: NetName=GND Pin=X3-6
+Added Pin To Net: NetName=GND Pin=X3-8
+Change Net Name : Old Net Name=NetDA2_1 New Net Name=DUSYA
+Added Pin To Net: NetName=SW1 Pin=DA1-21
+Added Pin To Net: NetName=SW1 Pin=X3-1
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=DA1-19
+Added Pin To Net: NetName=SW2 Pin=X3-3
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=DA1-20
+Added Pin To Net: NetName=SW3 Pin=X3-5
+Added Net: Name=SW3
+Added Pin To Net: NetName=SW4 Pin=DA1-22
+Added Pin To Net: NetName=SW4 Pin=X3-7
+Added Net: Name=SW4
+Added Member To Class: ClassName=aig21 Member=Component X3 DIP4_SMD

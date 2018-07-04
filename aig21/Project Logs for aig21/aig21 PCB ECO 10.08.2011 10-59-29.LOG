@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EMU Pin=DA1-10
+Removed Pin From Net: NetName=SHIFT_SENSE Pin=DA1-12
+Added Pin To Net: NetName=SHIFT_SENSE Pin=DA1-10
+Added Pin To Net: NetName=EMU Pin=DA1-12

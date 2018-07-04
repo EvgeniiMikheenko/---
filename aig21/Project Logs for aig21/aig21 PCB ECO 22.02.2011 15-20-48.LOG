@@ -1,0 +1,4 @@
+Added Component: Designator=U4(ssop24)
+Added Pin To Net: NetName=+24V Pin=U4-11
+Added Member To Class: ClassName=aig21 Member=Component U4 ir2214
+Added Room: Name=aig21

@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=DA4-2
+Removed Pin From Net: NetName=EMU_IN Pin=DA4-3
+Removed Pin From Net: NetName=GND Pin=DA4-5
+Removed Pin From Net: NetName=NetC13_1 Pin=DA4-6
+Removed Pin From Net: NetName=NetC13_2 Pin=DA4-7
+Change Component Designator: OldDesignator=U? NewDesignator=DA5
+Change Component Designator: OldDesignator=X14 NewDesignator=X2
+Added Component: Designator=DA6(NSO8_N)
+Added Component: Designator=HL1(led1206)
+Added Component: Designator=HL2(led1206)
+Added Component: Designator=VT3(SOT-23)
+Added Component: Designator=VT4(SOT-23)
+Added Component: Designator=X1(5esd)
+Added Component: Designator=X3(PLS-3 2.54)
+Added Component: Designator=X4(5esd)
+Added Component: Designator=X5(IDC14M)
+Added Component: Designator=X11(5esd)
+Added Component: Designator=X41(5esd)
+Added Component: Designator=X42(5esd)
+Added Component: Designator=X43(5esd)
+Added Pin To Net: NetName=+3.3V Pin=C15-2
+Added Pin To Net: NetName=+3.3V Pin=C16-2
+Added Pin To Net: NetName=+3.3V Pin=C17-2
+Added Pin To Net: NetName=+3.3V Pin=C18-2
+Added Pin To Net: NetName=NetC13_2 Pin=DA4-1
+Added Pin To Net: NetName=NetC13_1 Pin=DA4-2
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=EMU_IN Pin=DA4-5
+Added Pin To Net: NetName=NetC9_1 Pin=DA4-6
+Added Pin To Net: NetName=CONT2ASS Pin=DA5-11
+Added Pin To Net: NetName=CONT2U Pin=DA5-12
+Added Pin To Net: NetName=EASS Pin=DA5-13
+Added Pin To Net: NetName=EHV Pin=DA5-14
+Added Pin To Net: NetName=K=8 Pin=DA5-27
+Added Pin To Net: NetName=K=4 Pin=DA5-28
+Added Pin To Net: NetName=F Pin=DA5-42
+Added Pin To Net: NetName=2F Pin=DA5-46
+Added Pin To Net: NetName=GND Pin=DA6-5
+Added Pin To Net: NetName=+3.3V Pin=DA6-8
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=+EGB Pin=X1-1
+Added Pin To Net: NetName=CONT2ASS Pin=X5-1
+Added Pin To Net: NetName=CONT2U Pin=X5-2
+Added Pin To Net: NetName=EHV Pin=X5-3
+Added Pin To Net: NetName=GND Pin=X5-4
+Added Pin To Net: NetName=F Pin=X5-5
+Added Pin To Net: NetName=GND Pin=X5-6
+Added Pin To Net: NetName=2F Pin=X5-7
+Added Pin To Net: NetName=GND Pin=X5-8
+Added Pin To Net: NetName=EASS Pin=X5-9
+Added Pin To Net: NetName=+3.3V Pin=X5-10
+Added Pin To Net: NetName=+EGB Pin=X5-11
+Added Pin To Net: NetName=-3.3V Pin=X5-12
+Added Pin To Net: NetName=+12.6V Pin=X5-13
+Added Pin To Net: NetName=GND_EXT Pin=X5-14
+Added Pin To Net: NetName=GND_EXT Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X41-1
+Added Pin To Net: NetName=+EMU Pin=X3-1
+Added Net: Name=+EMU
+Added Pin To Net: NetName=-EMU Pin=X3-3
+Added Net: Name=-EMU
+Added Pin To Net: NetName=K=5 Pin=DA5-26
+Added Net: Name=K=5
+Added Pin To Net: NetName=NetDA4_7 Pin=DA4-7
+Added Pin To Net: NetName=NetDA4_7 Pin=R7-2
+Added Pin To Net: NetName=NetDA4_7 Pin=R8-2
+Added Net: Name=NetDA4_7
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R16-1
+Added Net: Name=NetHL1_2
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R17-1
+Added Net: Name=NetHL2_2
+Added Pin To Net: NetName=NetX3_2 Pin=X3-2
+Added Pin To Net: NetName=NetX3_2 Pin=X4-1
+Added Net: Name=NetX3_2
+Added Pin To Net: NetName=P_F Pin=DA5-25
+Added Pin To Net: NetName=P_F Pin=HL2-1
+Added Pin To Net: NetName=P_F Pin=VT3-1
+Added Pin To Net: NetName=P_F Pin=X42-1
+Added Net: Name=P_F
+Added Pin To Net: NetName=P_I Pin=DA5-22
+Added Pin To Net: NetName=P_I Pin=HL1-1
+Added Pin To Net: NetName=P_I Pin=VT4-1
+Added Pin To Net: NetName=P_I Pin=X43-1
+Added Net: Name=P_I

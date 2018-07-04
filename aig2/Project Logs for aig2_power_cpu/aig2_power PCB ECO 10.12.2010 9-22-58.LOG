@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=X5 NewDesignator=X1
+Added Class: Name=aig2_power_cpu
+Added Room: Name=aig2_power_cpu

@@ -1,0 +1,41 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~aig21.PrjPcb|ReportField=ProjectFullPath~C:\projects\aig21\aig21.PrjPcb|ReportField=Title~Bill of Materials For Project [aig21.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~143|ReportField=ReportTime~14:09:47|ReportField=ReportDate~10.08.2011|ReportField=ReportDateTime~10.08.2011 14:09:47|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10.08.2011|ReportField=CurrentTime~14:09:26|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\projects\aig21\aig21.SchDoc|ReportField=DocumentName~aig21.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~09.08.2011|ReportField=Organization~|ReportField=ProjectName~aig21.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~aig21.PrjPcb|ReportField=DataSourceFullPath~C:\projects\aig21\aig21.PrjPcb
+C0805|Ceramic Chip Capacitor - Standard|C1, C3, C5, C6, C7, C8|CC0805|C0805|6|0.1 uF
+CAPASITOR A|CAPASITOR A|C2|CAPASITOR A|CAPASITOR A|1|
+C0805|Ceramic Chip Capacitor - Standard|C4, C9, C16, C23, C41, C50, C51, C52, C57, C58|CC0805|C0805|10|1 uF
+C1206|Конденсатор|C10, C11, C12, C13, C14, C15, C17, C18, C19, C20, C21, C22, C24, C25, C26, C27, C28, C29, C30, C31, C33, C34, C35, C36, C37, C38, C39, C40, C43, C44, C45, C46, C47, C48, C49, C55, C59, C60, C61, C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72|С1206|С1206|50|
+CAPASITOR A|CAPASITOR A|C32|CAPASITOR A|CAPASITOR A|1|68uF X 6.3V
+CAPASITOR C|CAPASITOR C|C42|CAPASITOR C|CAPASITOR C|1|50V
+CC1812|CC1812|C53, C54|CC1812|CC1812|2|2200 x 3kV
+CAPASITOR C|CAPASITOR C|C56, C73|CAPASITOR C|CAPASITOR C|2|25V
+ZMU150|High-Voltage Power Zener Diode|D1|MELF|ZMU150|1|
+BAV99|Silicon Switching Diode Array for High-Speed Switching|D2|SOT-23|BAV99|1|
+STM32F100C8|STM32 ARM-based 32-bit MCU with 32 Kbytes Flash, 48-pin LQFP, Industrial Temperature|DA1|LQFP48_N|STM32F101C6T6|1|
+MAX485ESA|Low-Power, Slew-Rate-Limited RS-485/RS-422 Transceiver|DA3|NSO8_N|MAX485ESA|1|
+LQH43CN220K|Дроссель|L1, L2, L3|1812|CDRH127|3|
+CM45|Дроссель|L4, L5|12-1812|ERJL12|2|10uH
+2N7002|N-channel Enhancement Mode Field-effect Transistor|Q1|SOT-23|2N7002|1|
+BSH201|P-channel Enhancement Mode MOSFET|Q2|SOT23|BSH201|1|
+2N7002|N-channel Enhancement Mode Field-effect Transistor|Q4, Q5|SOT23_N|2N7002|2|
+|R_0805|R1, R11|RR0805|R_0805|2|130k
+|R_0805|R2|RR0805|R_0805|1|7K5
+|R_0805|R3, R6, R7, R28|RR0805|R_0805|4|10M
+|R_0805|R4, R9|RR0805|R_0805|2|10k
+CAY16-J4|CAY16-J4|R5|CAY16-F4|CAY16-J4|1|100
+|R_0805|R8, R19, R20, R30, R31|RR0805|R_0805|5|20k
+CAY16-J4|CAY16-J4|R10, R37|CAY16-F4|CAY16-J4|2|10k
+|R_0805|R12, R13, R14, R15, R16, R21, R22, R23, R24, R25|RR0805|R_0805|10|1M
+|R_0805|R17, R18|RR0805|R_0805|2|100
+|R_0805|R26|RR0805|R_0805|1|4K7
+LT6003|740MHz, Low-Noise, Low-Distortion Op Amp in SOT23-5|U2|SOT23-5_N|MAX4104EUK-T|1|
+ADM8828/29|Микросхема|U3|SOT23-6|ADM8828/29|1|
+ir2214|Микросхема|U4|ssop24|ir2214|1|
+MAX1836EUT33|Микросхема|U5|SOT23-6|MAX1836|1|
+LM2733XMF|0.6/1.6 MHz Boost Converters With 40V Internal FET Switch in SOT-23|U6, U7|MF05A_N|LM2733XMF|2|
+L6201|DMOS Full Bridge Driver|U9|SO20_N|L6201|1|
+BAT54A|Schottky Barrier Double Diode|VD1, VD12|SOT23_N|BAT54A|2|
+BAT54A|Schottky Barrier Double Diode|VD2|SOT-23|BAT54A|1|
+BAV99BRW|Диод|VD3, VD4, VD5, VD6, VD7, VD8, VD9, VD10, VD11, VD13, VD14, VD15|SOT-363|BAV99BRW|12|
+STN1NK80Z|N-channel Enhancement Mode Vertical D-MOSFET|VT1, VT2|SOT223_N|BSP130|2|
+53398-0671|Разъем|X1|53398-0671|53398-0671|1|
+53398-0471|53398-0471|X2|53398-0471|53398-0471|1|
+DIP4_SMD|DIP Переключатель|X3|DIP4_SOP|SW_DIP4_SMD|1|

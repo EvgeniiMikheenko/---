@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC51_1 Pin=C65-2
+Removed Pin From Net: NetName=NetC63_2 Pin=L4-1
+Removed Pin From Net: NetName=NetL5_2 Pin=U1-1
+Removed Pin From Net: NetName=PUMP- Pin=U1-2
+Removed Pin From Net: NetName=PUMP+ Pin=U1-3
+Removed Pin From Net: NetName=PUMP- Pin=U1-5
+Removed Pin From Net: NetName=PUMP+ Pin=U1-6
+Removed Pin From Net: NetName=NetL4_2 Pin=U1-7
+Removed Pin From Net: NetName=NetC51_1 Pin=VD14-1
+Added Component: Designator=C67(Ñ1206)
+Added Component: Designator=C68(Ñ1206)
+Added Component: Designator=C69(Ñ1206)
+Added Component: Designator=C70(Ñ1206)
+Added Component: Designator=VD15(SOT-363)
+Added Pin To Net: NetName=NetC50_1 Pin=C67-2
+Added Pin To Net: NetName=NetC63_2 Pin=C68-1
+Added Pin To Net: NetName=NetC51_1 Pin=C69-2
+Added Pin To Net: NetName=NetC50_1 Pin=L4-1
+Added Pin To Net: NetName=NetL4_2 Pin=U1-1
+Added Pin To Net: NetName=PUMP+ Pin=U1-2
+Added Pin To Net: NetName=PUMP- Pin=U1-3
+Added Pin To Net: NetName=PUMP+ Pin=U1-5
+Added Pin To Net: NetName=PUMP- Pin=U1-6
+Added Pin To Net: NetName=NetL5_2 Pin=U1-7
+Added Pin To Net: NetName=NetC51_1 Pin=VD15-1
+Added Pin To Net: NetName=NetC63_2 Pin=VD15-3
+Added Pin To Net: NetName=NetC65_2 Pin=C65-2
+Added Pin To Net: NetName=NetC65_2 Pin=C70-1
+Added Pin To Net: NetName=NetC65_2 Pin=VD14-1
+Added Pin To Net: NetName=NetC65_2 Pin=VD15-4
+Added Net: Name=NetC65_2
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=C68-2
+Added Pin To Net: NetName=NetC67_1 Pin=VD15-6
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC69_1 Pin=C69-1
+Added Pin To Net: NetName=NetC69_1 Pin=C70-2
+Added Pin To Net: NetName=NetC69_1 Pin=VD15-2
+Added Pin To Net: NetName=NetC69_1 Pin=VD15-5
+Added Net: Name=NetC69_1
+Added Member To Class: ClassName=aig21 Member=Component C67 C1206
+Added Member To Class: ClassName=aig21 Member=Component C68 C1206
+Added Member To Class: ClassName=aig21 Member=Component C69 C1206
+Added Member To Class: ClassName=aig21 Member=Component C70 C1206
+Added Member To Class: ClassName=aig21 Member=Component VD15 BAV99BRW

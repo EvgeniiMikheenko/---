@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=+38V Pin=U1-8
+Removed Member From Class: ClassName=aig21 Member=U1
+Added Component: Designator=U8(LQFP48_N)
+Added Pin To Net: NetName=ADC0 Pin=U8-10
+Added Pin To Net: NetName=ADC1 Pin=U8-11
+Added Pin To Net: NetName=ADC2 Pin=U8-12
+Added Pin To Net: NetName=ADC3 Pin=U8-13
+Added Pin To Net: NetName=ADC4 Pin=U8-14
+Added Pin To Net: NetName=ADC5 Pin=U8-15
+Added Pin To Net: NetName=ADC6 Pin=U8-16
+Added Pin To Net: NetName=ADC7 Pin=U8-17
+Added Pin To Net: NetName=ADC2 Pin=U8-18
+Added Pin To Net: NetName=ADC3 Pin=U8-19
+Added Pin To Net: NetName=ADC2 Pin=U8-21
+Added Pin To Net: NetName=ADC3 Pin=U8-22
+Added Pin To Net: NetName=TIM1_CH1N Pin=U8-26
+Added Pin To Net: NetName=ADC2 Pin=U8-27
+Added Pin To Net: NetName=ADC3 Pin=U8-28
+Added Pin To Net: NetName=TIM1_CH1 Pin=U8-29
+Added Pin To Net: NetName=TIM1_CH2 Pin=U8-30
+Added Pin To Net: NetName=TIM1_CH3 Pin=U8-31
+Added Pin To Net: NetName=TIM1_CH4 Pin=U8-32
+Added Pin To Net: NetName=ADC1 Pin=U8-39
+Added Pin To Net: NetName=ADC6 Pin=U8-40
+Added Pin To Net: NetName=ADC7 Pin=U8-41
+Added Pin To Net: NetName=TIM16_CH1N Pin=U8-42
+Added Pin To Net: NetName=TIM17_CH1N Pin=U8-43
+Added Pin To Net: NetName=ADC6 Pin=U8-45
+Added Pin To Net: NetName=ADC7 Pin=U8-46
+Added Member To Class: ClassName=stm32f10c4_map Member=Component U8 STM32F103C4

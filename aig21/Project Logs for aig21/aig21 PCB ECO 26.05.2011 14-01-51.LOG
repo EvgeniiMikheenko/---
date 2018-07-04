@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Change Component DesignItemId : Designator=U1 Old DesignItemId=MCP602-E/ST New DesignItemId=LM358DMR2
+Change Component Footprint: Designator=U1 Old Footprint=TSSOP-ST8_N New Footprint=846A-02_N
+Change Component Comment : Designator=U1 Old Comment=MCP602-E/ST New Comment=LM358DMR2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2

@@ -1,0 +1,2 @@
+Change Pin Designator/Name:  Old Designator=DD1A-63 Old Name=P0[16]/RXD1/SSEL0/SSEL New Designator =P0[5]/I2SRX_WS/TD2/CAP2[1] New Name=80
+Change Pin Designator/Name:  Old Designator=DD1A-80 Old Name=P0[5]/I2SRX_WS/TD2/CAP2[1] New Designator =P0[16]/RXD1/SSEL0/SSEL New Name=63

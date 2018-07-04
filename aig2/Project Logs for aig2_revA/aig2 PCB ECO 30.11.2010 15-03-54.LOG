@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES20MM New DesignItemId=RES15MM
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES20MM New DesignItemId=RES15MM
+Change Component DesignItemId : Designator=R27 Old DesignItemId=RES20MM New DesignItemId=RES15MM
+Change Component Footprint: Designator=R2 Old Footprint=RES20MM New Footprint=RES15MM
+Change Component Footprint: Designator=R3 Old Footprint=RES20MM New Footprint=RES15MM
+Change Component Footprint: Designator=R27 Old Footprint=RES20MM New Footprint=RES15MM
+Change Component Comment : Designator=R2 Old Comment=RES20MM New Comment=RES15MM
+Change Component Comment : Designator=R3 Old Comment=RES20MM New Comment=RES15MM
+Change Component Comment : Designator=R27 Old Comment=RES20MM New Comment=RES15MM
+Added Pin To Net: NetName=GND Pin=DA1-4

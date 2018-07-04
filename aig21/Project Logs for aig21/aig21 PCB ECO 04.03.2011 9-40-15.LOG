@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC10_2 Pin=L2-1
+Removed Pin From Net: NetName=+3.3V Pin=R4-1
+Removed Pin From Net: NetName=NetC43_2 Pin=VD2-1
+Removed Pin From Net: NetName=NetC33_2 Pin=VD2-2
+Removed Pin From Net: NetName=NetC11_1 Pin=VD2-3
+Removed Pin From Net: NetName=NetC33_1 Pin=VD2-4
+Removed Pin From Net: NetName=NetC33_2 Pin=VD2-5
+Removed Pin From Net: NetName=NetC10_1 Pin=VD2-6
+Removed Member From Class: ClassName=aig21 Member=C9
+Removed Member From Class: ClassName=aig21 Member=R4
+Change Component DesignItemId : Designator=VD2 Old DesignItemId=BAV99BRW New DesignItemId=BAT54A
+Change Component DesignItemId : Designator=L2 Old DesignItemId=ERJL12 New DesignItemId=CDRH127
+Change Component Footprint: Designator=L2 Old Footprint=12-1812 New Footprint=1812
+Change Component Footprint: Designator=VD2 Old Footprint=SOT-363 New Footprint=SOT23_N
+Change Component Comment : Designator=VD2 Old Comment=BAV99BRW New Comment=BAT54A
+Change Component Comment : Designator=L2 Old Comment=CM45 New Comment=LQH43CN220K
+Added Component: Designator=L4(12-1812)
+Added Component: Designator=U5(SOT23-6)
+Added Component: Designator=VD5(SOT-363)
+Added Pin To Net: NetName=+3.3V Pin=L2-2
+Added Pin To Net: NetName=NetC10_2 Pin=L4-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=+24V Pin=U5-3
+Added Pin To Net: NetName=+24V Pin=U5-5
+Added Pin To Net: NetName=+3.3V Pin=U5-6
+Added Pin To Net: NetName=GND Pin=VD2-3
+Added Pin To Net: NetName=NetC43_2 Pin=VD5-1
+Added Pin To Net: NetName=NetC33_2 Pin=VD5-2
+Added Pin To Net: NetName=NetC11_1 Pin=VD5-3
+Added Pin To Net: NetName=NetC33_1 Pin=VD5-4
+Added Pin To Net: NetName=NetC33_2 Pin=VD5-5
+Added Pin To Net: NetName=NetC10_1 Pin=VD5-6
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U5-4
+Added Pin To Net: NetName=NetL2_1 Pin=VD2-2
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=U1-1
+Added Net: Name=NetL4_2
+Added Member To Class: ClassName=aig21 Member=Component L4 CM45
+Added Member To Class: ClassName=aig21 Member=Component U5 MAX1836
+Added Member To Class: ClassName=aig21 Member=Component VD5 BAV99BRW

@@ -1,0 +1,4 @@
+Added Component: Designator=L5(12-1812)
+Added Pin To Net: NetName=NetC43_2 Pin=L5-1
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Member To Class: ClassName=aig21 Member=Component L5 CM45

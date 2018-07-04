@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C33-2
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC43_2 Pin=C43-2
+Removed Pin From Net: NetName=P_F Pin=X1-4
+Removed Pin From Net: NetName=P_I Pin=X1-5
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetQ4_3 Pin=X1-4
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=X1-5
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206

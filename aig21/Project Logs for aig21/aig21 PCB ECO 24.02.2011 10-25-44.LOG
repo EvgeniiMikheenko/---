@@ -1,0 +1,47 @@
+Added Component: Designator=C5(CC0805)
+Added Component: Designator=D1(MELF)
+Added Component: Designator=R35(CAY16-F4)
+Added Component: Designator=R36(CAY16-F4)
+Added Pin To Net: NetName=+24V Pin=D1-1
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-8
+Change Net Name : Old Net Name=HV_1000 New Net Name=NetC41_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U4-19
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=D1-2
+Added Pin To Net: NetName=NetC5_2 Pin=U4-23
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U4-24
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-4
+Added Pin To Net: NetName=NetR35_2 Pin=R35-6
+Added Pin To Net: NetName=NetR35_2 Pin=R35-8
+Added Pin To Net: NetName=NetR35_2 Pin=VT1-1
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR35_3 Pin=R35-3
+Added Pin To Net: NetName=NetR35_3 Pin=U4-21
+Added Net: Name=NetR35_3
+Added Pin To Net: NetName=NetR35_5 Pin=R35-5
+Added Pin To Net: NetName=NetR35_5 Pin=U4-20
+Added Net: Name=NetR35_5
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=U4-12
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=VT2-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR36_3 Pin=R36-3
+Added Pin To Net: NetName=NetR36_3 Pin=U4-10
+Added Net: Name=NetR36_3
+Added Pin To Net: NetName=NetR36_5 Pin=R36-5
+Added Pin To Net: NetName=NetR36_5 Pin=U4-9
+Added Net: Name=NetR36_5
+Added Member To Class: ClassName=aig21 Member=Component C5 C0805
+Added Member To Class: ClassName=aig21 Member=Component D1 ZMU150
+Added Member To Class: ClassName=aig21 Member=Component R35 CAY16-J4
+Added Member To Class: ClassName=aig21 Member=Component R36 CAY16-J4
+Added Room: Name=aig21

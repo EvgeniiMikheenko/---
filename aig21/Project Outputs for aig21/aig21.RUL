@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\projects\aig21\aig21.PcbDoc
+RuleKind=Clearance|RuleName=CPU|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=HV2_2|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=HV2|Scope=Board|Minimum=78.74
+RuleKind=Clearance|RuleName=HV1|Scope=Board|Minimum=78.74
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=NetC33_2 Pin=C43-1
+Removed Pin From Net: NetName=NetC33_2 Pin=VD5-2
+Removed Pin From Net: NetName=NetC33_2 Pin=VD5-5
+Added Component: Designator=U?(LQFP48_N)
+Added Pin To Net: NetName=NetC33_1 Pin=C43-1
+Added Pin To Net: NetName=NetC33_2 Pin=C55-1
+Added Pin To Net: NetName=ADC0 Pin=U?-10
+Added Pin To Net: NetName=ADC1 Pin=U?-11
+Added Pin To Net: NetName=ADC2 Pin=U?-12
+Added Pin To Net: NetName=ADC3 Pin=U?-13
+Added Pin To Net: NetName=ADC4 Pin=U?-14
+Added Pin To Net: NetName=ADC5 Pin=U?-15
+Added Pin To Net: NetName=ADC6 Pin=U?-16
+Added Pin To Net: NetName=ADC7 Pin=U?-17
+Added Pin To Net: NetName=ADC2 Pin=U?-18
+Added Pin To Net: NetName=ADC3 Pin=U?-19
+Added Pin To Net: NetName=ADC2 Pin=U?-21
+Added Pin To Net: NetName=ADC3 Pin=U?-22
+Added Pin To Net: NetName=TIM1_CH1N Pin=U?-26
+Added Pin To Net: NetName=ADC2 Pin=U?-27
+Added Pin To Net: NetName=ADC3 Pin=U?-28
+Added Pin To Net: NetName=TIM1_CH1 Pin=U?-29
+Added Pin To Net: NetName=TIM1_CH2 Pin=U?-30
+Added Pin To Net: NetName=TIM1_CH3 Pin=U?-31
+Added Pin To Net: NetName=TIM1_CH4 Pin=U?-32
+Added Pin To Net: NetName=ADC1 Pin=U?-39
+Added Pin To Net: NetName=ADC6 Pin=U?-40
+Added Pin To Net: NetName=ADC7 Pin=U?-41
+Added Pin To Net: NetName=TIM16_CH1N Pin=U?-42
+Added Pin To Net: NetName=TIM17_CH1N Pin=U?-43
+Added Pin To Net: NetName=ADC6 Pin=U?-45
+Added Pin To Net: NetName=ADC7 Pin=U?-46
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetC43_1
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=C43-2
+Added Pin To Net: NetName=NetC33_1 Pin=VD5-2
+Added Pin To Net: NetName=NetC33_1 Pin=VD5-5
+Added Net: Name=NetC33_1
+Added Member To Class: ClassName=aig21 Member=Component C33 C1206
+Added Member To Class: ClassName=aig21 Member=Component C43 C1206
+Added Member To Class: ClassName=stm32f10c4_map Member=Component U? STM32F103C4

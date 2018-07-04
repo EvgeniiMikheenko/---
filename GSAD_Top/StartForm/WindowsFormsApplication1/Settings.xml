@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+
+  <state name ="Pos_Tresh">
+    <color>Red</color>
+    <message>POSTRSH</message>
+  </state>
+
+  <state name ="Pos_Dng">
+    <color>Green</color>
+    <message>POSDNG</message>
+  </state>
+
+  <state name ="Neg_Tresh">
+    <color>Blue</color>
+    <message>NEGTRSH</message>
+  </state>
+  
+</Settings>

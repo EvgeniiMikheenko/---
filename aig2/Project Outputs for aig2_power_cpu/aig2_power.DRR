@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: aig2_power.PcbDoc   13.12.2010  13:29:51
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : aig2_power.TXT
+EIA File   : aig2_power.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          53               12.68 Inch (322.12 mm)
+T2        28mil (0.7112mm)         Round          17               5.58 Inch (141.68 mm)
+T3        30mil (0.762mm)          Round          4                2.44 Inch (62.03 mm)
+T4        38mil (0.9652mm)         Round          17               3.03 Inch (77.09 mm)
+T5        40mil (1.016mm)          Round          1                0.00 Inch (0.00 mm)
+T6        43.31mil (1.10007mm)     Round          20               2.84 Inch (72.23 mm)
+T7        137.8mil (3.50012mm)     Round          3                4.91 Inch (124.71 mm)
+---------------------------------------------------------------------------
+Totals                                            115              31.49 Inch (799.86 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
